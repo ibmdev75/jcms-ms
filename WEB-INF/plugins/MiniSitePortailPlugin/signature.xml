@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signature name="MiniSitePortailPlugin" urid="c" type="plugin" date="1425751660369">
+  <sign file="WEB-INF/plugins/MiniSitePortailPlugin/plugin.xml" signature="8STkWPejtwRzGq1lPHzBLw==" />
+  <sign file="WEB-INF/plugins/MiniSitePortailPlugin/properties/languages/en.prop" signature="1B2M2Y8AsgTpgAmY7PhCfg==" />
+  <sign file="WEB-INF/plugins/MiniSitePortailPlugin/properties/languages/fr.prop" signature="1B2M2Y8AsgTpgAmY7PhCfg==" />
+  <sign file="WEB-INF/plugins/MiniSitePortailPlugin/properties/plugin.prop" signature="lT/m+I/VCgML0RgD3gTKPg==" />
+  <sign file="plugins/MiniSitePortailPlugin/css/plugin.less" signature="F/0qW60ZXRqaDXfp4DVvPw==" />
+  <sign file="plugins/MiniSitePortailPlugin/js/plugin.js" signature="PWtlEBhSrhTYGa4lqwm+1g==" />
+  <sign file="plugins/MiniSitePortailPlugin/jsp/plugin.jsp" signature="HhHXCuU58jmkb/WkRU9Duw==" />
+</signature>
+
