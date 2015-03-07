@@ -4,11 +4,11 @@
 
 channel.name: JCMS 9
 channel.url: http://127.0.0.1:80/
-channel.default-email:
+channel.default-email: 
 channel.sign-up: false
 channel.sign-up-validation-required: false
 channel.sign-up-create-dbmember: true
-channel.sign.form:
+channel.sign.form: 
 channel.charter: false
 channel.is-authentication-required: false
 channel.ssl.enabled: false
@@ -16,25 +16,25 @@ channel.ssl.port: 443
 channel.urid: c
 channel.default-group: j_36
 channel.default-admin: j_2
-channel.default-author:
+channel.default-author: 
 channel.java-compiler: internal
 channel.lock-timeout: 60
-channel.keywords:
-channel.description:
+channel.keywords: 
+channel.description: 
 channel.default-show-adminicon: true
 channel.login-casesensitive: true
 channel.login-accentsensitive: true
-channel.devadmin:
+channel.devadmin: 
 channel.devadmin.enabled: false
-channel.admin-ip:
-channel.workspaces-ip:
+channel.admin-ip: 
+channel.workspaces-ip: 
 channel.data-write.enabled: true
 channel.data-write.msg:
 channel.gzip-filter.enabled: false
 channel.dev-mode.enabled: true
 channel.dev-tools.enabled: true
 channel.webdav.enabled: true
-channel.webdav.ip-filter:
+channel.webdav.ip-filter: 
 channel.webdav.custom-protocol.enabled: false
 channel.webdav.use-http-digest-auth: false
 channel.headless: true
@@ -53,7 +53,7 @@ channel.packer.cache-expiration: 10
 channel.chromeframe.enabled: false
 channel.main-plugin:
 channel.main-plugin.check-at-startup: true
-$channel.tag-root:
+$channel.tag-root: 
 
 bug-report.email: jcms-report@jalios.com
 review.default-rating: 1
@@ -126,7 +126,7 @@ channel.default-lang: fr
 # The country must be an ISO 3166 country code supported by the Java Locale implementation
 channel.default-country: FR
 
-channel.languages: fr, en
+channel.languages: fr,en
 
 channel.lang.use-advanced-i18n: true
 channel.lang.rtl-languages: ar,fa,iw,ur
@@ -155,11 +155,11 @@ deploy-mgr.copy-ignore:
 # ----------------------------------------------------------------------
 
 # Search / Refine / Advanced Refine root categories (a space-separated list of category id)
-query.refine-roots:
-query.adv-refine-roots:
-query.search-roots:
-query.default.types-off:
-query.default.types-facet-off:
+query.refine-roots: 
+query.adv-refine-roots: 
+query.search-roots: 
+query.default.types-off: 
+query.default.types-facet-off: 
 query.sort.fo: relevance
 query.sort.bo: mdate
 query.facets.ugcs: false
@@ -185,21 +185,21 @@ query.facets.text.file: false
 # ----------------------------------------------------------------------
 
 mail.enabled: false
-mail.smtp.host:
-mail.smtp.port:
-mail.smtp.login:
-mail.smtp.password:
+mail.smtp.host: 
+mail.smtp.port: 
+mail.smtp.login: 
+mail.smtp.password: 
 
 # ----------------------------------------------------------------------
 # Forward Proxy
 # ----------------------------------------------------------------------
 
-http.proxy.enabled:
-http.proxyHost:
-http.proxyPort:
-http.nonProxyHosts:
-http.proxy.login:
-http.proxy.password:
+http.proxy.enabled: false
+http.proxyHost: 
+http.proxyPort: 
+http.nonProxyHosts: 
+http.proxy.login: 
+http.proxy.password: 
 
 # ----------------------------------------------------------------------
 # LDAP Configuration
@@ -229,7 +229,7 @@ ldap.server.groupobjectclass: posixGroup
 ldap.mapping.login: uid
 ldap.mapping.name: sn
 ldap.mapping.f-name: givenName
-ldap.mapping.salut:
+ldap.mapping.salut: 
 ldap.mapping.organization: organizationName
 ldap.mapping.department: department
 ldap.mapping.job: title
@@ -275,9 +275,9 @@ channel.default-workspace: j_4
 # ----------------------------------------------------------------------
 
 channel.default-index: j_6
-channel.default-portal: j_206
+channel.default-portal: c_5003
 channel.default-printportal: j_55
-display.navigate-root:
+display.navigate-root: 
 
 # ----------------------------------------------------------------------
 # Reverse Proxy
@@ -288,17 +288,17 @@ channel.reverse-proxy.conf1.ip-addresses: 192.168.0.1, 192.168.0.2
 channel.reverse-proxy.conf1.context-path: /cms
 channel.reverse-proxy.conf1.base-url: http://intranet.example.com/
 channel.reverse-proxy.conf1.ssl-base-url: https://intranet.example.com/
-channel.reverse-proxy.conf2.ip-addresses:
-channel.reverse-proxy.conf2.context-path:
-channel.reverse-proxy.conf2.base-url:
-channel.reverse-proxy.conf2.ssl-base-url:
+channel.reverse-proxy.conf2.ip-addresses: 
+channel.reverse-proxy.conf2.context-path: 
+channel.reverse-proxy.conf2.base-url: 
+channel.reverse-proxy.conf2.ssl-base-url: 
 
 # ----------------------------------------------------------------------
 # JSync
 # ----------------------------------------------------------------------
 jsync.enabled: false
-jsync.replica-url:
-jsync.leader-url:
+jsync.replica-url: 
+jsync.leader-url: 
 jsync.startup-join: 5
 jsync.can-be-joined: true
 jsync.can-leader-join: true
@@ -307,8 +307,8 @@ jsync.stab-delay: 10
 jsync.sync-files: false
 jsync.max-op: 100
 jsync.max-delay: 1000
-jsync.ip:
-jsync.explicit-replica-list:
+jsync.ip: 
+jsync.explicit-replica-list: 
 jsync.replica-startup-join: 0
 
 # ----------------------------------------------------------------------
@@ -325,7 +325,7 @@ auth-mgr.persistent.default-value: false
 # ----------------------------------------------------------------------
 
 audience-rigths.enabled: false
-audience-rigths.axes:
+audience-rigths.axes: 
 
 # ----------------------------------------------------------------------
 # Store backup
@@ -353,13 +353,13 @@ store.backup.max: 10
 import-mgr.enabled: false
 
 # The author for the imported publication (default is admin)
-$id.import-mgr.import-author:
+$id.import-mgr.import-author: 
 
 # The workspace for the imported publication (default is Default Workspace)
-$id.import-mgr.import-ws:
+$id.import-mgr.import-ws: 
 
 # The root category for imported categories (default is "Import")
-$id.import-mgr.import-root:
+$id.import-mgr.import-root: 
 
 # Connection timeout (in seconds)
 import-mgr.connection.timeout: 5
@@ -434,12 +434,12 @@ mail.account.label.default: Default account
 mail.account.default.host: pop.example.com
 mail.account.default.port: 110
 mail.account.default.protocol: pop3
-mail.account.default.login:
-mail.account.default.password:
+mail.account.default.login: 
+mail.account.default.password: 
 mail.account.default.mbox: INBOX
 mail.account.default.schedule: 10
-mail.account.default.author:
-mail.account.default.ws:
+mail.account.default.author: 
+mail.account.default.ws: 
 mail.account.default.expunge: true
 mail.account.default.enabled: true
 mail.account.default.imapssl: true
@@ -514,3 +514,23 @@ workflow.unprefixed-role.writers: basic-writers
 workflow.unprefixed-role.validators: basic-validators
 workflow.unprefixed-role.writer: wfdraft-writer
 workflow.unprefixed-role.moderators: wfmoderation-moderators
+derby.password: 
+readertracker.enabled.boolean: true
+vote.default-value: 1
+ldap.periodic-sync.enabled: false
+vote.enabled.boolean: true
+readertracker.types: Publication
+tag.thumbnail.thumbshot.url: 
+channel.security.csp.csp-report-only-header: 
+mail.send-with-site-email: true
+derby.host: 0.0.0.0
+vote.anonymize-vote.boolean: false
+channel.security.csp.csp-header: 
+statreporter.resolvehost: false
+statreporter.enabled: true
+statreporter.analysis: false
+readertracker.anonymize.enabled.boolean: false
+channel.packer.version: 
+vote.notification.vote-received.boolean: true
+channel.security.csp.enabled: false
+vote.anonymize-downvote.boolean: false
