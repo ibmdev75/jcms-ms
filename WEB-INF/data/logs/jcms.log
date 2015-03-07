@@ -1,0 +1,1093 @@
+2015-03-07 18:02:21,452 INFO [localhost-startStop-1] [JCMS] [jcms.ChannelInitServlet]  - JCMS Initialization
+2015-03-07 18:02:21,541 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - ******************************************
+2015-03-07 18:02:21,541 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Start at Sat Mar 07 18:02:21 CET 2015
+2015-03-07 18:02:21,542 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Operating System: Windows 7, 6.1, x86
+2015-03-07 18:02:21,542 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Java Runtime Environment: 1.7.0_25, Oracle Corporation
+2015-03-07 18:02:21,542 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Java VM: Java HotSpot(TM) Client VM, 23.25-b01, Oracle Corporation
+2015-03-07 18:02:21,553 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Init the PluginManager
+2015-03-07 18:02:21,560 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Create plugins folder: WEB-INF/plugins
+2015-03-07 18:02:21,599 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Init plugins...
+2015-03-07 18:02:21,599 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Init dependencies
+2015-03-07 18:02:21,626 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Read languages properties
+2015-03-07 18:02:21,953 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Register plugins Properties
+2015-03-07 18:02:21,953 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Read JCMS properties
+2015-03-07 18:02:21,958 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Register plugins Properties
+2015-03-07 18:02:21,958 INFO [localhost-startStop-1] [JCMS] [jcms.Channel]  - Read properties:WEB-INF/data/custom.prop
+2015-03-07 18:02:21,960 INFO [localhost-startStop-1] [JCMS] [util.DBUtil]  - Look for available DataSources...
+2015-03-07 18:02:21,961 INFO [localhost-startStop-1] [JCMS] [util.DBUtil]  - ... no DataSource found !
+2015-03-07 18:02:21,963 INFO [localhost-startStop-1] [JCMS] [plugin.PluginManager]  - Register plugins PolicyFilter
+2015-03-07 18:02:22,039 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Version: JCMS 9.0.1 (build-20150128184305)
+2015-03-07 18:02:22,040 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Name: JCMS 9
+2015-03-07 18:02:22,040 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - URL: http://127.0.0.1:80/
+2015-03-07 18:02:22,073 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - URID: c
+2015-03-07 18:02:22,075 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Setup plugins...
+2015-03-07 18:02:22,076 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Init dependencies
+2015-03-07 18:02:22,083 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - packageDir: D:\programmation\workspaces\JCMS\smabtp\MiniSite\jcms-ms\WEB-INF\classes\generated\
+2015-03-07 18:02:22,130 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - templateWorkDir: create directory D:\programmation\workspaces\JCMS\smabtp\MiniSite\jcms-ms\WEB-INF\jcmswork\templates_work
+2015-03-07 18:02:22,133 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Process Types
+2015-03-07 18:02:22,134 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,134 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Convert old types to new types structure Jcms 5.7
+2015-03-07 18:02:22,135 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,135 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Convert old templates to new templates structure Jcms 6.0
+2015-03-07 18:02:22,192 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,192 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Read types directory
+2015-03-07 18:02:22,470 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Clean the Template Work Directory
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractCollection is uptodate
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractParent is uptodate
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractPortal is uptodate
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractPortlet is uptodate
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractPortletSkinable is uptodate
+2015-03-07 18:02:22,471 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractPortletStat is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type AbstractPortletStatReport is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type Article is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type DBMailMessage is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type Faq is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type FaqEntry is uptodate
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,472 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type Glossary is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type GlossaryEntry is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type Interview is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortalJspCollection is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletColumn is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletDecorator is uptodate
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,473 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletFeed is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletIFrame is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletImage is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletJsp is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletJspCollection is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletLoggedMembers is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletLogin is uptodate
+2015-03-07 18:02:22,474 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletMenu is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletMyLocks is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletNavigate is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletNotification is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletPortal is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletPortalRedirect is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletQueryForeach is uptodate
+2015-03-07 18:02:22,475 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletQueryForeachDetail is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletRecentHistory is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletRow is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletRSS is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletSearch is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletSelection is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletSignUp is uptodate
+2015-03-07 18:02:22,476 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletStatMetrics is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletStatReport is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletTopMember is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletWorkflow is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type PortletWYSIWYG is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type SignUp is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type SmallNews is uptodate
+2015-03-07 18:02:22,477 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type WebPage is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type CategoryExtension is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type FileDocumentExtension is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type GroupExtension is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type MemberExtension is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Type WorkspaceExtension is uptodate
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:22,478 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Generate shared resources
+2015-03-07 18:02:22,479 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Generate LinkIndexListener.java
+2015-03-07 18:02:23,997 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Generate FileIndexListener.java
+2015-03-07 18:02:24,418 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:24,419 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Compile generated Java classes
+2015-03-07 18:02:24,774 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:24,774 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Check StorableHandler
+2015-03-07 18:02:24,842 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:24,842 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractCollection
+2015-03-07 18:02:24,844 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractParent
+2015-03-07 18:02:24,847 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractPortal
+2015-03-07 18:02:24,848 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractPortlet
+2015-03-07 18:02:24,850 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractPortletSkinable
+2015-03-07 18:02:24,852 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractPortletStat
+2015-03-07 18:02:24,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.AbstractPortletStatReport
+2015-03-07 18:02:24,854 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.Article
+2015-03-07 18:02:24,855 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.DBMailMessage
+2015-03-07 18:02:24,856 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.Faq
+2015-03-07 18:02:24,856 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.FaqEntry
+2015-03-07 18:02:24,857 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.Glossary
+2015-03-07 18:02:24,857 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.GlossaryEntry
+2015-03-07 18:02:24,857 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.Interview
+2015-03-07 18:02:24,858 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortalJspCollection
+2015-03-07 18:02:24,859 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletColumn
+2015-03-07 18:02:24,860 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletDecorator
+2015-03-07 18:02:24,860 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletFeed
+2015-03-07 18:02:24,862 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletIFrame
+2015-03-07 18:02:24,863 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletImage
+2015-03-07 18:02:24,864 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletJsp
+2015-03-07 18:02:24,864 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletJspCollection
+2015-03-07 18:02:24,864 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletLoggedMembers
+2015-03-07 18:02:24,865 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletLogin
+2015-03-07 18:02:24,865 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletMenu
+2015-03-07 18:02:24,866 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletMyLocks
+2015-03-07 18:02:24,866 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletNavigate
+2015-03-07 18:02:24,867 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletNotification
+2015-03-07 18:02:24,867 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletPortal
+2015-03-07 18:02:24,868 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletPortalRedirect
+2015-03-07 18:02:24,869 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletQueryForeach
+2015-03-07 18:02:24,869 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletQueryForeachDetail
+2015-03-07 18:02:24,870 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletRecentHistory
+2015-03-07 18:02:24,872 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletRow
+2015-03-07 18:02:24,872 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletRSS
+2015-03-07 18:02:24,873 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletSearch
+2015-03-07 18:02:24,874 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletSelection
+2015-03-07 18:02:24,875 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletSignUp
+2015-03-07 18:02:24,875 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletStatMetrics
+2015-03-07 18:02:24,876 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletStatReport
+2015-03-07 18:02:24,876 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletTopMember
+2015-03-07 18:02:24,876 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletWorkflow
+2015-03-07 18:02:24,877 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.PortletWYSIWYG
+2015-03-07 18:02:24,877 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.SignUp
+2015-03-07 18:02:24,878 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.SmallNews
+2015-03-07 18:02:24,879 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.WebPage
+2015-03-07 18:02:24,879 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.CategoryExtension
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.FileDocumentExtension
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.GroupExtension
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.MemberExtension
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Load generated.WorkspaceExtension
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - ------------------------------
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Check Hibernate Mapping
+2015-03-07 18:02:24,880 INFO [localhost-startStop-1] [JCMS 9] [jcms.TypeProcessor]  - Generate hibernate mapping DBMailMessage.hbm.xml
+2015-03-07 18:02:25,142 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Init the Store
+2015-03-07 18:02:25,142 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Use NIO
+2015-03-07 18:02:25,182 INFO [localhost-startStop-1] [JCMS 9] [jcms.QueryManager]  - Init the QueryManager
+2015-03-07 18:02:25,196 INFO [localhost-startStop-1] [JCMS 9] [search.LucenePublicationSearchEngine]  - Init PublicationsIndices
+2015-03-07 18:02:25,357 INFO [localhost-startStop-1] [JCMS 9] [search.LucenePublicationSearchEngine]  - Optimization scheduled on Mon Mar 09 02:30:00 CET 2015
+2015-03-07 18:02:25,360 INFO [localhost-startStop-1] [JCMS 9] [search.SpellSuggestEngine]  - Initializing SpellSuggest Engine
+2015-03-07 18:02:25,376 INFO [localhost-startStop-1] [JCMS 9] [search.SpellSuggestEngine]  - SpellChecker indexing scheduled on Mon Mar 09 03:30:00 CET 2015
+2015-03-07 18:02:25,378 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneCategorySearchEngine]  - Init CategoriesIndices
+2015-03-07 18:02:25,390 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneCategorySearchEngine]  - Optimization scheduled on Mon Mar 09 02:30:00 CET 2015
+2015-03-07 18:02:25,402 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneMemberSearchEngine]  - Member Index Optimization scheduled on Mon Mar 09 02:30:00 CET 2015
+2015-03-07 18:02:25,402 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Sign plugins...
+2015-03-07 18:02:25,412 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Using Java AWT headless mode (java.awt.headless=true)
+2015-03-07 18:02:25,442 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Initialize FileProcessor
+2015-03-07 18:02:25,443 INFO [localhost-startStop-1] [JCMS 9] [accesscontrol.AccessControlManager]  - Initialize AccessControlManager
+2015-03-07 18:02:25,503 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins templates
+2015-03-07 18:02:25,503 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins StoreListeners before load
+2015-03-07 18:02:25,503 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins AuthenticationHandlers
+2015-03-07 18:02:25,504 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins QueryFilter
+2015-03-07 18:02:25,504 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins ChannelListener
+2015-03-07 18:02:25,504 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins AlarmListener
+2015-03-07 18:02:25,507 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Init the workflows
+2015-03-07 18:02:25,517 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Available workflows: wfdraft, filedocument, basic, minimal, wfmoderation
+2015-03-07 18:02:25,527 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Generate workflow.unprefixed-role. properties
+2015-03-07 18:02:25,528 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel] [SECURITY] - update and save properties
+2015-03-07 18:02:25,531 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - JcmsInit.initBeforeStoreLoad
+2015-03-07 18:02:25,533 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - load the store
+2015-03-07 18:02:25,799 INFO [localhost-startStop-1] [JCMS 9] [jstore.Store]  - Store loaded in 250 ms
+2015-03-07 18:02:25,800 INFO [localhost-startStop-1] [JCMS 9] [jstore.Store]  - Store has consumed 2,71 Mo (2846680 bytes)
+2015-03-07 18:02:25,800 INFO [localhost-startStop-1] [JCMS 9] [jstore.Store]  - Store contains 35 storable objects
+2015-03-07 18:02:25,811 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - No data bound to virtual ID '$id.import-mgr.import-ws'
+2015-03-07 18:02:25,811 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - No data bound to virtual ID '$channel.tag-root'
+2015-03-07 18:02:25,811 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - No data bound to virtual ID '$id.import-mgr.import-author'
+2015-03-07 18:02:25,811 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - No data bound to virtual ID '$id.import-mgr.import-root'
+2015-03-07 18:02:25,811 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - No data bound to virtual ID '$id.member.csv-import.ws-root-cat'
+2015-03-07 18:02:25,858 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Store backup is enabled
+2015-03-07 18:02:25,860 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - initDerby
+2015-03-07 18:02:25,864 INFO [localhost-startStop-1] [JCMS 9] [db.DerbyManager]  - Derby backup is enabled
+2015-03-07 18:02:26,727 INFO [localhost-startStop-1] [JCMS 9] [db.DerbyManager]  - Start Derby Server on localhost:50198
+2015-03-07 18:02:26,727 INFO [localhost-startStop-1] [JCMS 9] [db.DerbyManager]  - JDBC URL: jdbc:derby://localhost:50198/jcmsdb;create=true;
+2015-03-07 18:02:26,728 INFO [localhost-startStop-1] [JCMS 9] [jstore.LogManager]  - Check index for maxStamp j_4999
+2015-03-07 18:02:26,790 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - [JSync] disabled
+2015-03-07 18:02:26,790 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - initHibernate
+2015-03-07 18:02:26,886 INFO [localhost-startStop-1] [JCMS 9] [db.HibernateManager]  - jcmsdb profile: derby
+2015-03-07 18:02:26,906 INFO [localhost-startStop-1] [JCMS 9] [db.HibernateManager]  - hibernate.connection.url: jdbc:derby://localhost:50198/jcmsdb;create=true;
+2015-03-07 18:02:28,464 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register Hibernate mappings
+2015-03-07 18:02:30,147 WARN [localhost-startStop-1] [JCMS 9] [hibernate.AbstractEhcacheRegionFactory]  - Couldn't find a specific ehcache configuration for cache named [com.jalios.jcms.analytics.metric.SearchReportMetric.categoryTop]; using defaults.
+2015-03-07 18:02:30,149 WARN [localhost-startStop-1] [JCMS 9] [hibernate.AbstractEhcacheRegionFactory]  - Couldn't find a specific ehcache configuration for cache named [com.jalios.jcms.analytics.metric.AccessReportMetric.portalCategoryTop]; using defaults.
+2015-03-07 18:02:30,153 WARN [localhost-startStop-1] [JCMS 9] [hibernate.AbstractEhcacheRegionFactory]  - Couldn't find a specific ehcache configuration for cache named [com.jalios.jcms.analytics.metric.WriteReportMetric.publicationLikeTop]; using defaults.
+2015-03-07 18:02:32,492 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Connection pooling for Hibernate using C3P0 is enabled
+2015-03-07 18:02:32,492 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Second level cache is enabled
+2015-03-07 18:02:32,492 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Query cache is enabled
+2015-03-07 18:02:32,522 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - initHibernate: Hibernate has been successfully set up.
+2015-03-07 18:02:32,527 INFO [localhost-startStop-1] [JCMS 9] [alert.AlertManager]  - Initialize alert purge. Next purge: Alarm params minute=0 hour=5 dayOfMonth=-1 month=-1 dayOfWeek=-1 (next alarm date=Sun Mar 08 05:00:00 CET 2015)
+2015-03-07 18:02:32,592 INFO [localhost-startStop-1] [JCMS 9] [archive.ArchiveManager]  - Init the ArchiveManager
+2015-03-07 18:02:32,801 INFO [localhost-startStop-1] [JCMS 9] [monitoring.MonitoringManager]  - Monitoring started
+2015-03-07 18:02:32,801 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Init workflow alarms
+2015-03-07 18:02:32,801 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Register alarms for JStore publications
+2015-03-07 18:02:32,802 INFO [localhost-startStop-1] [JCMS 9] [jcms.WorkflowManager]  - Register alarms for Hibernate publications
+2015-03-07 18:02:32,843 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - initDevAdmin: no dev admin
+2015-03-07 18:02:32,844 INFO [localhost-startStop-1] [JCMS 9] [jcms.JcmsSessionTracker]  - Members' traces disabled
+2015-03-07 18:02:32,845 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Init the Cache Manager
+2015-03-07 18:02:32,846 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache : 1000
+2015-03-07 18:02:32,856 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache for 'csspacker' configuration : 200
+2015-03-07 18:02:32,856 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache for 'jspacker' configuration : 200
+2015-03-07 18:02:32,856 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - CacheManager enabled
+2015-03-07 18:02:32,886 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Mails are disabled
+2015-03-07 18:02:32,886 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Incoming mail are disabled
+2015-03-07 18:02:32,890 INFO [localhost-startStop-1] [JCMS 9] [mail.MailFetcher]  - MailFetcher is disabled
+2015-03-07 18:02:32,907 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - App. Server: Tomcat 7.0 (Apache Tomcat/7.0.50)
+2015-03-07 18:02:32,907 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - ReverseProxy disabled
+2015-03-07 18:02:32,908 INFO [localhost-startStop-1] [JCMS 9] [jcms.NotificationManager]  - Init the Notification Manager
+2015-03-07 18:02:32,911 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Notification enabled
+2015-03-07 18:02:32,916 INFO [localhost-startStop-1] [JCMS 9] [jcms.WeakLinkManager]  - Scan and index weak links.
+2015-03-07 18:02:32,941 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Line delimiters ignored for signatures of 'jspf jsp js prop html xml java properties txt htm css'
+2015-03-07 18:02:32,942 INFO [localhost-startStop-1] [JCMS 9] [jcms.AudienceRights]  - Audience Rights is disabled
+2015-03-07 18:02:32,944 INFO [localhost-startStop-1] [JCMS 9] [rest.RestManager]  - Authorized IPs for read access : 127.0.0.1 0:0:0:0:0:0:0:1 192.168.*
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins StoreListeners after load
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins DBListener
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins DataController
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins AlarmListener
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins CleanFilter
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins RestResource
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Register plugins DBListener
+2015-03-07 18:02:32,960 INFO [localhost-startStop-1] [JCMS 9] [plugin.PluginManager]  - Init main plugin: no main plugin
+2015-03-07 18:02:32,961 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Start FileProcessor processing thread
+2015-03-07 18:02:32,964 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Initialize FileProcessor repositories (JCMS startup)
+2015-03-07 18:02:32,976 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - [JCMSUpload] Initializing repository...
+2015-03-07 18:02:32,981 INFO [localhost-startStop-1] [JCMS 9] [repository.Repository]  - [JCMSUpload] No component (processor or parser) configured for this repository.
+2015-03-07 18:02:32,982 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - [JCMSUpload] Repository successfully initialized and started.
+2015-03-07 18:02:32,994 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneCategorySearchEngine]  - Reindexing all Data in search engine...
+2015-03-07 18:02:33,097 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneCategorySearchEngine]  - Indexing took 103 ms for 3 Objects
+2015-03-07 18:02:33,109 INFO [localhost-startStop-1] [JCMS 9] [search.LucenePublicationSearchEngine]  - Reindexing all Data in search engine...
+2015-03-07 18:02:33,319 INFO [localhost-startStop-1] [JCMS 9] [search.LucenePublicationSearchEngine]  - Indexing took 210 ms for 10 Objects
+2015-03-07 18:02:33,320 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneMemberSearchEngine]  - Reindexing all Member in search engine...
+2015-03-07 18:02:33,339 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneMemberSearchEngine]  - Reindexing all DBMember in search engine...
+2015-03-07 18:02:33,466 INFO [localhost-startStop-1] [JCMS 9] [search.LuceneMemberSearchEngine]  - Indexing took 146 ms for 1 Members and 0 DBMembers
+2015-03-07 18:02:33,708 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - All the JCMS limits are respected.
+2015-03-07 18:02:33,710 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Data count: Data: 35, Workspace: 1, Group: 5, Member: 1, Worker: 1, Category: 3, Content: 1, FileDocument: 0, DBFileDocument: 0, UserContent: 0
+2015-03-07 18:02:33,723 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - Compiling LESS files...
+2015-03-07 18:02:41,739 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile portal.less to portal.css
+2015-03-07 18:02:42,253 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-analytics.less to jalios-analytics.css
+2015-03-07 18:02:43,366 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile data-inspector.less to data-inspector.css
+2015-03-07 18:02:43,457 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile member-csv-import.less to member-csv-import.css
+2015-03-07 18:02:53,228 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-topbar-edit.less to jalios-topbar-edit.css
+2015-03-07 18:03:57,240 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile content.less to content.css
+2015-03-07 18:04:13,345 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-search.less to jalios-search.css
+2015-03-07 18:04:19,409 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-pqf.less to jalios-pqf.css
+2015-03-07 18:04:32,334 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile light-skin.less to light-skin.css
+2015-03-07 18:04:35,206 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-recommendation.less to jalios-recommendation.css
+2015-03-07 18:04:35,247 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios.less to jalios.css
+2015-03-07 18:04:35,822 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile admin.less to admin.css
+2015-03-07 18:04:59,147 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-login.less to jalios-login.css
+2015-03-07 18:05:22,338 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-photo-crop.less to jalios-photo-crop.css
+2015-03-07 18:05:37,611 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile mailmessage.less to mailmessage.css
+2015-03-07 18:05:51,520 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-checkrights.less to jalios-checkrights.css
+2015-03-07 18:05:52,445 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-menu-slide.less to jalios-menu-slide.css
+2015-03-07 18:05:55,042 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-menu-hover.less to jalios-menu-hover.css
+2015-03-07 18:05:59,465 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile core-theme.less to core-theme.css
+2015-03-07 18:06:03,795 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile mediabrowser.less to mediabrowser.css
+2015-03-07 18:06:05,975 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile datetimepicker.less to datetimepicker.css
+2015-03-07 18:06:08,627 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile font-icons.less to font-icons.css
+2015-03-07 18:06:20,666 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile homepage.less to homepage.css
+2015-03-07 18:06:25,874 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile wysiwyg.less to wysiwyg.css
+2015-03-07 18:06:44,721 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-carousel.less to jalios-carousel.css
+2015-03-07 18:06:44,764 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-notification.less to jalios-notification.css
+2015-03-07 18:06:46,118 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-menu-vertical.less to jalios-menu-vertical.css
+2015-03-07 18:06:46,378 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-rss.less to jalios-rss.css
+2015-03-07 18:06:47,096 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-member-card.less to jalios-member-card.css
+2015-03-07 18:06:48,673 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile core.less to core.css
+2015-03-07 18:06:48,848 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-pqf-newspaper.less to jalios-pqf-newspaper.css
+2015-03-07 18:06:49,015 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile bootstrap.less to bootstrap.css
+2015-03-07 18:06:49,428 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile jalios-plupload.less to jalios-plupload.css
+2015-03-07 18:06:51,607 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - [LESS]: Compile fulldisplay.less to fulldisplay.css
+2015-03-07 18:06:51,609 INFO [localhost-startStop-1] [JCMS 9] [jcms.ResourceHelper]  - 34 LESS files compiled in 4 min 17 s
+2015-03-07 18:06:51,611 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  - Minify CSS files...
+2015-03-07 18:06:51,682 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/fff-sprite.css --> WEB-INF/jcmswork/min.css/css/fff-sprite.css
+2015-03-07 18:06:51,882 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/fulldisplay.css --> WEB-INF/jcmswork/min.css/css/fulldisplay.css
+2015-03-07 18:06:51,900 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/homepage.css --> WEB-INF/jcmswork/min.css/css/homepage.css
+2015-03-07 18:06:51,903 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/acl.css --> WEB-INF/jcmswork/min.css/css/jalios/acl.css
+2015-03-07 18:06:51,908 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/colorchooser.css --> WEB-INF/jcmswork/min.css/css/jalios/colorchooser.css
+2015-03-07 18:06:51,909 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/admin.css --> WEB-INF/jcmswork/min.css/css/jalios/core/admin.css
+2015-03-07 18:06:51,994 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/bootstrap.css --> WEB-INF/jcmswork/min.css/css/jalios/core/bootstrap.css
+2015-03-07 18:06:52,884 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/core-theme.css --> WEB-INF/jcmswork/min.css/css/jalios/core/core-theme.css
+2015-03-07 18:06:52,885 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/core.css --> WEB-INF/jcmswork/min.css/css/jalios/core/core.css
+2015-03-07 18:06:53,669 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/font-icons.css --> WEB-INF/jcmswork/min.css/css/jalios/core/font-icons.css
+2015-03-07 18:06:59,353 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-carousel.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-carousel.css
+2015-03-07 18:06:59,376 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-codemirror-twiki.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-codemirror-twiki.css
+2015-03-07 18:06:59,385 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-codemirror.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-codemirror.css
+2015-03-07 18:06:59,386 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-member-card.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-member-card.css
+2015-03-07 18:06:59,398 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-menu-hover.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-menu-hover.css
+2015-03-07 18:06:59,402 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-menu-slide.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-menu-slide.css
+2015-03-07 18:06:59,544 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-menu-vertical.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-menu-vertical.css
+2015-03-07 18:06:59,548 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-photo-crop.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-photo-crop.css
+2015-03-07 18:06:59,551 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/jalios-plupload.css --> WEB-INF/jcmswork/min.css/css/jalios/core/jalios-plupload.css
+2015-03-07 18:06:59,560 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/core/lang.css --> WEB-INF/jcmswork/min.css/css/jalios/core/lang.css
+2015-03-07 18:06:59,765 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/data-inspector.css --> WEB-INF/jcmswork/min.css/css/jalios/data-inspector.css
+2015-03-07 18:06:59,767 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/docChooser.css --> WEB-INF/jcmswork/min.css/css/jalios/docChooser.css
+2015-03-07 18:06:59,770 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/fileprocessor.css --> WEB-INF/jcmswork/min.css/css/jalios/fileprocessor.css
+2015-03-07 18:06:59,775 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/form.css --> WEB-INF/jcmswork/min.css/css/jalios/form.css
+2015-03-07 18:06:59,788 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/logs.css --> WEB-INF/jcmswork/min.css/css/jalios/logs.css
+2015-03-07 18:06:59,794 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/mailmessage.css --> WEB-INF/jcmswork/min.css/css/jalios/mailmessage.css
+2015-03-07 18:06:59,812 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/mediabrowser.css --> WEB-INF/jcmswork/min.css/css/jalios/mediabrowser.css
+2015-03-07 18:06:59,819 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/member-csv-import.css --> WEB-INF/jcmswork/min.css/css/jalios/member-csv-import.css
+2015-03-07 18:06:59,825 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/member.css --> WEB-INF/jcmswork/min.css/css/jalios/member.css
+2015-03-07 18:06:59,826 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/plugin.css --> WEB-INF/jcmswork/min.css/css/jalios/plugin.css
+2015-03-07 18:06:59,831 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/pluginDoc.css --> WEB-INF/jcmswork/min.css/css/jalios/pluginDoc.css
+2015-03-07 18:06:59,834 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/portal.css --> WEB-INF/jcmswork/min.css/css/jalios/portal.css
+2015-03-07 18:06:59,848 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/rssTracking.css --> WEB-INF/jcmswork/min.css/css/jalios/rssTracking.css
+2015-03-07 18:06:59,856 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/staticTab.css --> WEB-INF/jcmswork/min.css/css/jalios/staticTab.css
+2015-03-07 18:06:59,860 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/textSearchHelp.css --> WEB-INF/jcmswork/min.css/css/jalios/textSearchHelp.css
+2015-03-07 18:06:59,864 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/typeEditor.css --> WEB-INF/jcmswork/min.css/css/jalios/typeEditor.css
+2015-03-07 18:06:59,866 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-analytics.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-analytics.css
+2015-03-07 18:06:59,889 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-checkrights.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-checkrights.css
+2015-03-07 18:06:59,891 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-login.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-login.css
+2015-03-07 18:06:59,900 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-notification.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-notification.css
+2015-03-07 18:06:59,901 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-pqf-newspaper.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-pqf-newspaper.css
+2015-03-07 18:06:59,908 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-pqf.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-pqf.css
+2015-03-07 18:06:59,910 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-recommendation.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-recommendation.css
+2015-03-07 18:06:59,913 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-rss.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-rss.css
+2015-03-07 18:06:59,918 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-search.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-search.css
+2015-03-07 18:06:59,923 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/ux/jalios-topbar-edit.css --> WEB-INF/jcmswork/min.css/css/jalios/ux/jalios-topbar-edit.css
+2015-03-07 18:06:59,939 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/warnlogsbox.css --> WEB-INF/jcmswork/min.css/css/jalios/warnlogsbox.css
+2015-03-07 18:06:59,946 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/jalios/widget/imagemap.css --> WEB-INF/jcmswork/min.css/css/jalios/widget/imagemap.css
+2015-03-07 18:06:59,951 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/animate/animate-custom.css --> WEB-INF/jcmswork/min.css/css/lib/animate/animate-custom.css
+2015-03-07 18:06:59,979 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/animate/animate-full.css --> WEB-INF/jcmswork/min.css/css/lib/animate/animate-full.css
+2015-03-07 18:07:00,127 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/datetimepicker/bootstrap-datetimepicker.css --> WEB-INF/jcmswork/min.css/css/lib/datetimepicker/bootstrap-datetimepicker.css
+2015-03-07 18:07:00,332 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/datetimepicker/datetimepicker.css --> WEB-INF/jcmswork/min.css/css/lib/datetimepicker/datetimepicker.css
+2015-03-07 18:07:00,536 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/jcrop/jquery.Jcrop.css --> WEB-INF/jcmswork/min.css/css/lib/jcrop/jquery.Jcrop.css
+2015-03-07 18:07:00,588 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/lib/menu/jquery.multilevelpushmenu.css --> WEB-INF/jcmswork/min.css/css/lib/menu/jquery.multilevelpushmenu.css
+2015-03-07 18:07:00,596 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/portal/jalios.css --> WEB-INF/jcmswork/min.css/css/portal/jalios.css
+2015-03-07 18:07:00,610 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/print.css --> WEB-INF/jcmswork/min.css/css/print.css
+2015-03-07 18:07:00,614 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/queryresult.css --> WEB-INF/jcmswork/min.css/css/queryresult.css
+2015-03-07 18:07:00,616 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/resizableTable.css --> WEB-INF/jcmswork/min.css/css/resizableTable.css
+2015-03-07 18:07:00,620 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/resultdisplay.css --> WEB-INF/jcmswork/min.css/css/resultdisplay.css
+2015-03-07 18:07:00,621 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/tinymce-wikiwyg.css --> WEB-INF/jcmswork/min.css/css/tinymce-wikiwyg.css
+2015-03-07 18:07:00,622 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/tinymce.css --> WEB-INF/jcmswork/min.css/css/tinymce.css
+2015-03-07 18:07:00,623 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/verticalMenu/verticalMenuBlue.css --> WEB-INF/jcmswork/min.css/css/verticalMenu/verticalMenuBlue.css
+2015-03-07 18:07:00,629 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/verticalMenu/verticalMenuCommon.css --> WEB-INF/jcmswork/min.css/css/verticalMenu/verticalMenuCommon.css
+2015-03-07 18:07:00,633 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/verticalMenu/verticalMenuGreen.css --> WEB-INF/jcmswork/min.css/css/verticalMenu/verticalMenuGreen.css
+2015-03-07 18:07:00,640 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/verticalMenu/verticalMenuYellow.css --> WEB-INF/jcmswork/min.css/css/verticalMenu/verticalMenuYellow.css
+2015-03-07 18:07:00,647 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  css/wysiwyg.css --> WEB-INF/jcmswork/min.css/css/wysiwyg.css
+2015-03-07 18:07:00,654 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/calendar/calendar.css --> WEB-INF/jcmswork/min.css/js/calendar/calendar.css
+2015-03-07 18:07:00,669 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/dialog/dialog.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/dialog/dialog.css
+2015-03-07 18:07:00,673 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/display/fullscreen.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/display/fullscreen.css
+2015-03-07 18:07:00,674 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/fold/foldgutter.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/fold/foldgutter.css
+2015-03-07 18:07:00,677 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/hint/show-hint.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/hint/show-hint.css
+2015-03-07 18:07:00,680 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/lint/lint.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/lint/lint.css
+2015-03-07 18:07:00,686 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/merge/merge.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/merge/merge.css
+2015-03-07 18:07:00,697 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/addon/tern/tern.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/addon/tern/tern.css
+2015-03-07 18:07:00,704 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/doc/docs.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/doc/docs.css
+2015-03-07 18:07:00,719 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/lib/codemirror.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/lib/codemirror.css
+2015-03-07 18:07:00,738 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/mode/tiddlywiki/tiddlywiki.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/mode/tiddlywiki/tiddlywiki.css
+2015-03-07 18:07:00,741 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/mode/tiki/tiki.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/mode/tiki/tiki.css
+2015-03-07 18:07:00,743 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/3024-day.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/3024-day.css
+2015-03-07 18:07:00,748 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/3024-night.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/3024-night.css
+2015-03-07 18:07:00,753 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/ambiance-mobile.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/ambiance-mobile.css
+2015-03-07 18:07:00,754 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/ambiance.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/ambiance.css
+2015-03-07 18:07:00,769 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/base16-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/base16-dark.css
+2015-03-07 18:07:00,776 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/base16-light.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/base16-light.css
+2015-03-07 18:07:00,781 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/blackboard.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/blackboard.css
+2015-03-07 18:07:00,785 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/cobalt.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/cobalt.css
+2015-03-07 18:07:00,790 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/eclipse.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/eclipse.css
+2015-03-07 18:07:00,795 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/elegant.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/elegant.css
+2015-03-07 18:07:00,798 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/erlang-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/erlang-dark.css
+2015-03-07 18:07:00,804 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/lesser-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/lesser-dark.css
+2015-03-07 18:07:00,811 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/mbo.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/mbo.css
+2015-03-07 18:07:00,816 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/mdn-like.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/mdn-like.css
+2015-03-07 18:07:00,824 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/midnight.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/midnight.css
+2015-03-07 18:07:00,829 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/monokai.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/monokai.css
+2015-03-07 18:07:00,835 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/neat.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/neat.css
+2015-03-07 18:07:00,838 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/night.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/night.css
+2015-03-07 18:07:00,842 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/paraiso-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/paraiso-dark.css
+2015-03-07 18:07:00,847 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/paraiso-light.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/paraiso-light.css
+2015-03-07 18:07:00,853 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/pastel-on-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/pastel-on-dark.css
+2015-03-07 18:07:00,861 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/rubyblue.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/rubyblue.css
+2015-03-07 18:07:00,866 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/solarized.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/solarized.css
+2015-03-07 18:07:00,883 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/the-matrix.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/the-matrix.css
+2015-03-07 18:07:00,889 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/tomorrow-night-eighties.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/tomorrow-night-eighties.css
+2015-03-07 18:07:00,897 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/twilight.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/twilight.css
+2015-03-07 18:07:00,902 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/vibrant-ink.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/vibrant-ink.css
+2015-03-07 18:07:00,907 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/xq-dark.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/xq-dark.css
+2015-03-07 18:07:00,912 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/codemirror/theme/xq-light.css --> WEB-INF/jcmswork/min.css/js/lib/codemirror/theme/xq-light.css
+2015-03-07 18:07:00,916 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/mejs/mediaelementplayer.css --> WEB-INF/jcmswork/min.css/js/lib/mejs/mediaelementplayer.css
+2015-03-07 18:07:01,029 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/mejs/mejs-skins.css --> WEB-INF/jcmswork/min.css/js/lib/mejs/mejs-skins.css
+2015-03-07 18:07:01,053 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload-1.5.8/js/jquery.plupload.queue/css/jquery.plupload.queue.css --> WEB-INF/jcmswork/min.css/js/lib/plupload-1.5.8/js/jquery.plupload.queue/css/jquery.plupload.queue.css
+2015-03-07 18:07:01,070 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload-1.5.8/js/jquery.ui.plupload/css/jquery.ui.plupload.css --> WEB-INF/jcmswork/min.css/js/lib/plupload-1.5.8/js/jquery.ui.plupload/css/jquery.ui.plupload.css
+2015-03-07 18:07:01,079 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload-2.1.2/js/jquery.plupload.queue/css/jquery.plupload.queue.css --> WEB-INF/jcmswork/min.css/js/lib/plupload-2.1.2/js/jquery.plupload.queue/css/jquery.plupload.queue.css
+2015-03-07 18:07:01,095 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload-2.1.2/js/jquery.ui.plupload/css/jquery.ui.plupload.css --> WEB-INF/jcmswork/min.css/js/lib/plupload-2.1.2/js/jquery.ui.plupload/css/jquery.ui.plupload.css
+2015-03-07 18:07:01,114 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload2/jquery.plupload.queue/css/jquery.plupload.queue.css --> WEB-INF/jcmswork/min.css/js/lib/plupload2/jquery.plupload.queue/css/jquery.plupload.queue.css
+2015-03-07 18:07:01,130 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/lib/plupload2/jquery.ui.plupload/css/jquery.ui.plupload.css --> WEB-INF/jcmswork/min.css/js/lib/plupload2/jquery.ui.plupload/css/jquery.ui.plupload.css
+2015-03-07 18:07:01,155 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  js/tests/vendor/qunit.css --> WEB-INF/jcmswork/min.css/js/tests/vendor/qunit.css
+2015-03-07 18:07:01,170 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  custom/css/alternate.css --> WEB-INF/jcmswork/min.css/custom/css/alternate.css
+2015-03-07 18:07:01,172 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  custom/css/standard.css --> WEB-INF/jcmswork/min.css/custom/css/standard.css
+2015-03-07 18:07:01,173 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  -  types/AbstractPortletSkinable/light-skin.css --> WEB-INF/jcmswork/min.css/types/AbstractPortletSkinable/light-skin.css
+2015-03-07 18:07:01,175 INFO [localhost-startStop-1] [JCMS 9] [tools.CssPacker]  - 119 CSS files minified in 9 s
+2015-03-07 18:07:01,177 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  - Minify JS files...
+2015-03-07 18:07:01,250 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/calendar/calendar-setup.js --> WEB-INF/jcmswork/min.js/js/calendar/calendar-setup.js
+2015-03-07 18:07:01,419 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/calendar/calendar.js --> WEB-INF/jcmswork/min.js/js/calendar/calendar.js
+2015-03-07 18:07:01,465 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/calendar/lang/calendar-en.js --> WEB-INF/jcmswork/min.js/js/calendar/lang/calendar-en.js
+2015-03-07 18:07:01,467 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/calendar/lang/calendar-fr.js --> WEB-INF/jcmswork/min.js/js/calendar/lang/calendar-fr.js
+2015-03-07 18:07:01,469 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/channel.js --> WEB-INF/jcmswork/min.js/js/channel.js
+2015-03-07 18:07:01,477 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/admin.js --> WEB-INF/jcmswork/min.js/js/jalios/admin.js
+2015-03-07 18:07:01,480 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-admin-notes.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-admin-notes.js
+2015-03-07 18:07:01,482 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-admin-templates.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-admin-templates.js
+2015-03-07 18:07:01,483 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-ajax-refresh.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-ajax-refresh.js
+2015-03-07 18:07:01,490 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-analytics.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-analytics.js
+2015-03-07 18:07:01,494 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-autocomplete-chooser.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-autocomplete-chooser.js
+2015-03-07 18:07:01,496 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-autocomplete-wiki.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-autocomplete-wiki.js
+2015-03-07 18:07:01,497 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-autocomplete.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-autocomplete.js
+2015-03-07 18:07:01,526 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-browser.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-browser.js
+2015-03-07 18:07:01,530 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-clickable.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-clickable.js
+2015-03-07 18:07:01,531 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-codemirror-twiki.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-codemirror-twiki.js
+2015-03-07 18:07:01,535 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-codemirror.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-codemirror.js
+2015-03-07 18:07:01,537 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-collapse.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-collapse.js
+2015-03-07 18:07:01,539 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-common.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-common.js
+2015-03-07 18:07:01,547 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-ctxmenu.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-ctxmenu.js
+2015-03-07 18:07:01,549 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-data-broker.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-data-broker.js
+2015-03-07 18:07:01,551 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-data-debug.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-data-debug.js
+2015-03-07 18:07:01,552 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-data-toggle.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-data-toggle.js
+2015-03-07 18:07:01,554 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-fullscreen.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-fullscreen.js
+2015-03-07 18:07:01,556 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-i18n.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-i18n.js
+2015-03-07 18:07:01,558 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-ie8.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-ie8.js
+2015-03-07 18:07:01,559 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-iframe-resizing.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-iframe-resizing.js
+2015-03-07 18:07:01,560 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-menu-hover.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-menu-hover.js
+2015-03-07 18:07:01,561 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-menu-slide.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-menu-slide.js
+2015-03-07 18:07:01,562 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-menu-vertical.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-menu-vertical.js
+2015-03-07 18:07:01,563 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-modal.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-modal.js
+2015-03-07 18:07:01,567 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-plupload.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-plupload.js
+2015-03-07 18:07:01,569 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-plupload2.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-plupload2.js
+2015-03-07 18:07:01,571 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-popin.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-popin.js
+2015-03-07 18:07:01,573 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-prefs.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-prefs.js
+2015-03-07 18:07:01,574 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-prototype-conflict.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-prototype-conflict.js
+2015-03-07 18:07:01,575 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-sidebar.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-sidebar.js
+2015-03-07 18:07:01,576 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-single-submit.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-single-submit.js
+2015-03-07 18:07:01,579 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-sortable-portal.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-sortable-portal.js
+2015-03-07 18:07:01,580 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-sortable-treecat.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-sortable-treecat.js
+2015-03-07 18:07:01,582 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-sortable-widget.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-sortable-widget.js
+2015-03-07 18:07:01,583 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-sortable.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-sortable.js
+2015-03-07 18:07:01,585 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-submit.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-submit.js
+2015-03-07 18:07:01,586 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-tab.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-tab.js
+2015-03-07 18:07:01,588 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-table-data.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-table-data.js
+2015-03-07 18:07:01,589 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-tooltip.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-tooltip.js
+2015-03-07 18:07:01,591 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-topbar.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-topbar.js
+2015-03-07 18:07:01,594 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-treeview.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-treeview.js
+2015-03-07 18:07:01,596 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-unlocker.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-unlocker.js
+2015-03-07 18:07:01,597 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-validation.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-validation.js
+2015-03-07 18:07:01,598 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-widget-chooser.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-widget-chooser.js
+2015-03-07 18:07:01,601 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-widget.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-widget.js
+2015-03-07 18:07:01,604 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/jalios-wiki-edit.js --> WEB-INF/jcmswork/min.js/js/jalios/core/jalios-wiki-edit.js
+2015-03-07 18:07:01,607 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/core/sidebar.js --> WEB-INF/jcmswork/min.js/js/jalios/core/sidebar.js
+2015-03-07 18:07:01,609 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/docChooser.js --> WEB-INF/jcmswork/min.js/js/jalios/docChooser.js
+2015-03-07 18:07:01,610 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/fileprocessor.js --> WEB-INF/jcmswork/min.js/js/jalios/fileprocessor.js
+2015-03-07 18:07:01,611 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/html2wiki.js --> WEB-INF/jcmswork/min.js/js/jalios/html2wiki.js
+2015-03-07 18:07:01,613 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/importManager.js --> WEB-INF/jcmswork/min.js/js/jalios/importManager.js
+2015-03-07 18:07:01,614 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/portal/portal-dnd.js --> WEB-INF/jcmswork/min.js/js/jalios/portal/portal-dnd.js
+2015-03-07 18:07:01,615 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/portal/portal-toolbar.js --> WEB-INF/jcmswork/min.js/js/jalios/portal/portal-toolbar.js
+2015-03-07 18:07:01,616 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/prototype-extensions.js --> WEB-INF/jcmswork/min.js/js/jalios/prototype-extensions.js
+2015-03-07 18:07:01,617 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/rssTracking.js --> WEB-INF/jcmswork/min.js/js/jalios/rssTracking.js
+2015-03-07 18:07:01,618 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/treews.js --> WEB-INF/jcmswork/min.js/js/jalios/treews.js
+2015-03-07 18:07:01,618 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/util.js --> WEB-INF/jcmswork/min.js/js/jalios/util.js
+2015-03-07 18:07:01,628 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-admin-properties.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-admin-properties.js
+2015-03-07 18:07:01,631 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-alert-rule-editor.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-alert-rule-editor.js
+2015-03-07 18:07:01,632 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-caddy.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-caddy.js
+2015-03-07 18:07:01,633 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-crop.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-crop.js
+2015-03-07 18:07:01,635 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-facets.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-facets.js
+2015-03-07 18:07:01,636 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-friendly-urls.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-friendly-urls.js
+2015-03-07 18:07:01,637 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-member-edit.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-member-edit.js
+2015-03-07 18:07:01,638 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-member-import.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-member-import.js
+2015-03-07 18:07:01,639 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/ux/jalios-rss.js --> WEB-INF/jcmswork/min.js/js/jalios/ux/jalios-rss.js
+2015-03-07 18:07:01,640 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/widget/sqlquery.js --> WEB-INF/jcmswork/min.js/js/jalios/widget/sqlquery.js
+2015-03-07 18:07:01,641 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/widget/wikitoolbar.js --> WEB-INF/jcmswork/min.js/js/jalios/widget/wikitoolbar.js
+2015-03-07 18:07:01,645 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/jalios/wiki2html.js --> WEB-INF/jcmswork/min.js/js/jalios/wiki2html.js
+2015-03-07 18:07:01,647 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/affix.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/affix.js
+2015-03-07 18:07:01,649 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/alert.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/alert.js
+2015-03-07 18:07:01,650 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/button.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/button.js
+2015-03-07 18:07:01,651 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/carousel.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/carousel.js
+2015-03-07 18:07:01,653 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/collapse.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/collapse.js
+2015-03-07 18:07:01,655 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/dropdown.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/dropdown.js
+2015-03-07 18:07:01,657 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/modal.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/modal.js
+2015-03-07 18:07:01,659 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/popover.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/popover.js
+2015-03-07 18:07:01,660 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/scrollspy.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/scrollspy.js
+2015-03-07 18:07:01,662 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/tab.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/tab.js
+2015-03-07 18:07:01,663 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/tooltip.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/tooltip.js
+2015-03-07 18:07:01,666 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap/transition.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap/transition.js
+2015-03-07 18:07:01,667 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap-colorpicker.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap-colorpicker.js
+2015-03-07 18:07:01,672 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap-notify.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap-notify.js
+2015-03-07 18:07:01,673 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap-tabdrop.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap-tabdrop.js
+2015-03-07 18:07:01,675 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/bootstrap-typeahead/bootstrap-typeahead.js --> WEB-INF/jcmswork/min.js/js/lib/bootstrap-typeahead/bootstrap-typeahead.js
+2015-03-07 18:07:01,677 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/comment/comment.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/comment/comment.js
+2015-03-07 18:07:01,681 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/comment/continuecomment.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/comment/continuecomment.js
+2015-03-07 18:07:01,683 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/dialog/dialog.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/dialog/dialog.js
+2015-03-07 18:07:01,684 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/display/fullscreen.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/display/fullscreen.js
+2015-03-07 18:07:01,686 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/display/placeholder.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/display/placeholder.js
+2015-03-07 18:07:01,687 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/display/rulers.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/display/rulers.js
+2015-03-07 18:07:01,688 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/closebrackets.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/closebrackets.js
+2015-03-07 18:07:01,690 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/closetag.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/closetag.js
+2015-03-07 18:07:01,693 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/continuelist.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/continuelist.js
+2015-03-07 18:07:01,694 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/matchbrackets.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/matchbrackets.js
+2015-03-07 18:07:01,697 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/matchtags.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/matchtags.js
+2015-03-07 18:07:01,698 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/edit/trailingspace.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/edit/trailingspace.js
+2015-03-07 18:07:01,699 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/brace-fold.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/brace-fold.js
+2015-03-07 18:07:01,701 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/comment-fold.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/comment-fold.js
+2015-03-07 18:07:01,703 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/foldcode.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/foldcode.js
+2015-03-07 18:07:01,705 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/foldgutter.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/foldgutter.js
+2015-03-07 18:07:01,707 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/indent-fold.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/indent-fold.js
+2015-03-07 18:07:01,709 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/markdown-fold.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/markdown-fold.js
+2015-03-07 18:07:01,710 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/fold/xml-fold.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/fold/xml-fold.js
+2015-03-07 18:07:01,713 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/anyword-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/anyword-hint.js
+2015-03-07 18:07:01,714 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/css-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/css-hint.js
+2015-03-07 18:07:01,715 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/html-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/html-hint.js
+2015-03-07 18:07:01,717 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/javascript-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/javascript-hint.js
+2015-03-07 18:07:01,719 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/python-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/python-hint.js
+2015-03-07 18:07:01,721 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/show-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/show-hint.js
+2015-03-07 18:07:01,724 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/sql-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/sql-hint.js
+2015-03-07 18:07:01,726 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/hint/xml-hint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/hint/xml-hint.js
+2015-03-07 18:07:01,727 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/coffeescript-lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/coffeescript-lint.js
+2015-03-07 18:07:01,728 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/css-lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/css-lint.js
+2015-03-07 18:07:01,729 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/javascript-lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/javascript-lint.js
+2015-03-07 18:07:01,730 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/json-lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/json-lint.js
+2015-03-07 18:07:01,732 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/lint.js
+2015-03-07 18:07:01,734 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/lint/yaml-lint.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/lint/yaml-lint.js
+2015-03-07 18:07:01,734 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/merge/dep/diff_match_patch.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/merge/dep/diff_match_patch.js
+2015-03-07 18:07:01,746 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/merge/merge.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/merge/merge.js
+2015-03-07 18:07:01,754 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/mode/loadmode.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/mode/loadmode.js
+2015-03-07 18:07:01,756 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/mode/multiplex.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/mode/multiplex.js
+2015-03-07 18:07:01,757 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/mode/overlay.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/mode/overlay.js
+2015-03-07 18:07:01,758 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/runmode/colorize.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/runmode/colorize.js
+2015-03-07 18:07:01,759 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/runmode/runmode-standalone.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/runmode/runmode-standalone.js
+2015-03-07 18:07:01,761 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/runmode/runmode.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/runmode/runmode.js
+2015-03-07 18:07:01,763 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/runmode/runmode.node.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/runmode/runmode.node.js
+2015-03-07 18:07:01,766 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/scroll/scrollpastend.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/scroll/scrollpastend.js
+2015-03-07 18:07:01,769 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/search/match-highlighter.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/search/match-highlighter.js
+2015-03-07 18:07:01,772 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/search/search.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/search/search.js
+2015-03-07 18:07:01,777 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/search/searchcursor.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/search/searchcursor.js
+2015-03-07 18:07:01,781 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/selection/active-line.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/selection/active-line.js
+2015-03-07 18:07:01,785 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/selection/mark-selection.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/selection/mark-selection.js
+2015-03-07 18:07:01,788 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/tern/tern.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/tern/tern.js
+2015-03-07 18:07:01,802 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/tern/worker.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/tern/worker.js
+2015-03-07 18:07:01,803 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/addon/wrap/hardwrap.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/addon/wrap/hardwrap.js
+2015-03-07 18:07:01,809 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/doc/activebookmark.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/doc/activebookmark.js
+2015-03-07 18:07:01,810 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/keymap/emacs.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/keymap/emacs.js
+2015-03-07 18:07:01,819 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/keymap/sublime.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/keymap/sublime.js
+2015-03-07 18:07:01,828 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/keymap/vim.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/keymap/vim.js
+2015-03-07 18:07:03,206 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/lib/codemirror.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/lib/codemirror.js
+2015-03-07 18:07:11,026 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/apl/apl.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/apl/apl.js
+2015-03-07 18:07:11,034 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/asterisk/asterisk.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/asterisk/asterisk.js
+2015-03-07 18:07:11,039 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/clike/clike.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/clike/clike.js
+2015-03-07 18:07:11,051 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/clojure/clojure.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/clojure/clojure.js
+2015-03-07 18:07:11,056 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/cobol/cobol.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/cobol/cobol.js
+2015-03-07 18:07:11,059 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/coffeescript/coffeescript.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/coffeescript/coffeescript.js
+2015-03-07 18:07:11,062 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/commonlisp/commonlisp.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/commonlisp/commonlisp.js
+2015-03-07 18:07:11,064 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/css/css.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/css/css.js
+2015-03-07 18:07:11,069 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/d/d.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/d/d.js
+2015-03-07 18:07:11,072 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/diff/diff.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/diff/diff.js
+2015-03-07 18:07:11,073 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/dtd/dtd.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/dtd/dtd.js
+2015-03-07 18:07:11,075 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/ecl/ecl.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/ecl/ecl.js
+2015-03-07 18:07:11,077 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/eiffel/eiffel.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/eiffel/eiffel.js
+2015-03-07 18:07:11,079 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/erlang/erlang.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/erlang/erlang.js
+2015-03-07 18:07:11,083 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/fortran/fortran.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/fortran/fortran.js
+2015-03-07 18:07:11,085 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/gas/gas.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/gas/gas.js
+2015-03-07 18:07:11,087 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/gfm/gfm.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/gfm/gfm.js
+2015-03-07 18:07:11,089 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/gherkin/gherkin.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/gherkin/gherkin.js
+2015-03-07 18:07:11,090 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/go/go.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/go/go.js
+2015-03-07 18:07:11,093 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/groovy/groovy.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/groovy/groovy.js
+2015-03-07 18:07:11,095 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/haml/haml.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/haml/haml.js
+2015-03-07 18:07:11,096 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/haskell/haskell.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/haskell/haskell.js
+2015-03-07 18:07:11,099 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/haxe/haxe.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/haxe/haxe.js
+2015-03-07 18:07:11,179 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/htmlembedded/htmlembedded.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/htmlembedded/htmlembedded.js
+2015-03-07 18:07:11,181 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/htmlmixed/htmlmixed.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/htmlmixed/htmlmixed.js
+2015-03-07 18:07:11,183 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/http/http.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/http/http.js
+2015-03-07 18:07:11,184 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/jade/jade.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/jade/jade.js
+2015-03-07 18:07:11,185 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/javascript/javascript.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/javascript/javascript.js
+2015-03-07 18:07:11,385 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/jinja2/jinja2.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/jinja2/jinja2.js
+2015-03-07 18:07:11,387 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/julia/julia.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/julia/julia.js
+2015-03-07 18:07:11,389 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/livescript/livescript.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/livescript/livescript.js
+2015-03-07 18:07:11,391 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/lua/lua.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/lua/lua.js
+2015-03-07 18:07:11,393 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/markdown/markdown.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/markdown/markdown.js
+2015-03-07 18:07:11,409 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/meta.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/meta.js
+2015-03-07 18:07:11,410 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/mirc/mirc.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/mirc/mirc.js
+2015-03-07 18:07:11,412 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/mllike/mllike.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/mllike/mllike.js
+2015-03-07 18:07:11,415 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/nginx/nginx.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/nginx/nginx.js
+2015-03-07 18:07:11,416 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/ntriples/ntriples.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/ntriples/ntriples.js
+2015-03-07 18:07:11,418 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/octave/octave.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/octave/octave.js
+2015-03-07 18:07:11,420 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/pascal/pascal.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/pascal/pascal.js
+2015-03-07 18:07:11,422 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/pegjs/pegjs.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/pegjs/pegjs.js
+2015-03-07 18:07:11,423 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/perl/perl.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/perl/perl.js
+2015-03-07 18:07:11,428 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/php/php.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/php/php.js
+2015-03-07 18:07:11,430 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/pig/pig.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/pig/pig.js
+2015-03-07 18:07:11,432 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/properties/properties.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/properties/properties.js
+2015-03-07 18:07:11,433 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/puppet/puppet.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/puppet/puppet.js
+2015-03-07 18:07:11,434 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/python/python.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/python/python.js
+2015-03-07 18:07:11,437 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/q/q.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/q/q.js
+2015-03-07 18:07:11,439 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/r/r.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/r/r.js
+2015-03-07 18:07:11,441 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/rpm/rpm.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/rpm/rpm.js
+2015-03-07 18:07:11,442 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/rst/rst.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/rst/rst.js
+2015-03-07 18:07:11,474 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/ruby/ruby.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/ruby/ruby.js
+2015-03-07 18:07:11,478 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/rust/rust.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/rust/rust.js
+2015-03-07 18:07:11,508 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/sass/sass.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/sass/sass.js
+2015-03-07 18:07:11,510 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/scheme/scheme.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/scheme/scheme.js
+2015-03-07 18:07:11,512 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/shell/shell.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/shell/shell.js
+2015-03-07 18:07:11,515 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/sieve/sieve.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/sieve/sieve.js
+2015-03-07 18:07:11,516 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/smalltalk/smalltalk.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/smalltalk/smalltalk.js
+2015-03-07 18:07:11,518 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/smarty/smarty.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/smarty/smarty.js
+2015-03-07 18:07:11,520 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/smartymixed/smartymixed.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/smartymixed/smartymixed.js
+2015-03-07 18:07:11,522 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/solr/solr.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/solr/solr.js
+2015-03-07 18:07:11,523 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/sparql/sparql.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/sparql/sparql.js
+2015-03-07 18:07:11,525 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/sql/sql.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/sql/sql.js
+2015-03-07 18:07:11,528 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/stex/stex.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/stex/stex.js
+2015-03-07 18:07:11,530 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/tcl/tcl.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/tcl/tcl.js
+2015-03-07 18:07:11,533 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/tiddlywiki/tiddlywiki.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/tiddlywiki/tiddlywiki.js
+2015-03-07 18:07:11,536 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/tiki/tiki.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/tiki/tiki.js
+2015-03-07 18:07:11,539 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/toml/toml.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/toml/toml.js
+2015-03-07 18:07:11,541 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/turtle/turtle.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/turtle/turtle.js
+2015-03-07 18:07:11,543 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/vb/vb.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/vb/vb.js
+2015-03-07 18:07:11,546 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/vbscript/vbscript.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/vbscript/vbscript.js
+2015-03-07 18:07:11,548 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/velocity/velocity.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/velocity/velocity.js
+2015-03-07 18:07:11,550 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/verilog/verilog.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/verilog/verilog.js
+2015-03-07 18:07:11,553 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/xml/xml.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/xml/xml.js
+2015-03-07 18:07:11,557 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/xquery/xquery.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/xquery/xquery.js
+2015-03-07 18:07:11,560 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/yaml/yaml.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/yaml/yaml.js
+2015-03-07 18:07:11,561 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/codemirror/mode/z80/z80.js --> WEB-INF/jcmswork/min.js/js/lib/codemirror/mode/z80/z80.js
+2015-03-07 18:07:11,563 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-af.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-af.js
+2015-03-07 18:07:11,570 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ar.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ar.js
+2015-03-07 18:07:11,577 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-az.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-az.js
+2015-03-07 18:07:11,584 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-be.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-be.js
+2015-03-07 18:07:11,591 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-bg.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-bg.js
+2015-03-07 18:07:11,598 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-bs.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-bs.js
+2015-03-07 18:07:11,606 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ca.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ca.js
+2015-03-07 18:07:11,616 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-cs.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-cs.js
+2015-03-07 18:07:11,623 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-cy.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-cy.js
+2015-03-07 18:07:11,630 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-da.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-da.js
+2015-03-07 18:07:11,637 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-de.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-de.js
+2015-03-07 18:07:11,644 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-dv.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-dv.js
+2015-03-07 18:07:11,656 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-el.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-el.js
+2015-03-07 18:07:11,666 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-en.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-en.js
+2015-03-07 18:07:11,675 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-es.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-es.js
+2015-03-07 18:07:11,685 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-et.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-et.js
+2015-03-07 18:07:11,698 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-eu.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-eu.js
+2015-03-07 18:07:11,708 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-fa.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-fa.js
+2015-03-07 18:07:11,723 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-fi.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-fi.js
+2015-03-07 18:07:11,733 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-fo.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-fo.js
+2015-03-07 18:07:11,743 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-fr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-fr.js
+2015-03-07 18:07:11,754 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-gl.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-gl.js
+2015-03-07 18:07:11,766 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-gu.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-gu.js
+2015-03-07 18:07:11,776 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-he.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-he.js
+2015-03-07 18:07:11,786 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-hi.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-hi.js
+2015-03-07 18:07:11,794 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-hr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-hr.js
+2015-03-07 18:07:11,803 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-hu.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-hu.js
+2015-03-07 18:07:11,816 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-hy.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-hy.js
+2015-03-07 18:07:11,825 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-id.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-id.js
+2015-03-07 18:07:11,833 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-is.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-is.js
+2015-03-07 18:07:11,841 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-it.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-it.js
+2015-03-07 18:07:11,849 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ja.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ja.js
+2015-03-07 18:07:11,857 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ka.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ka.js
+2015-03-07 18:07:11,864 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-kk.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-kk.js
+2015-03-07 18:07:11,872 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-kn.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-kn.js
+2015-03-07 18:07:11,879 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ko.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ko.js
+2015-03-07 18:07:11,891 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-kok.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-kok.js
+2015-03-07 18:07:11,901 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ky.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ky.js
+2015-03-07 18:07:11,909 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-lt.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-lt.js
+2015-03-07 18:07:11,919 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-lv.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-lv.js
+2015-03-07 18:07:11,928 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-mi.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-mi.js
+2015-03-07 18:07:11,936 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-mk.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-mk.js
+2015-03-07 18:07:11,944 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-mn.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-mn.js
+2015-03-07 18:07:11,952 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-mr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-mr.js
+2015-03-07 18:07:11,959 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ms.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ms.js
+2015-03-07 18:07:11,969 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-mt.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-mt.js
+2015-03-07 18:07:11,975 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-nb.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-nb.js
+2015-03-07 18:07:11,982 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-nl.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-nl.js
+2015-03-07 18:07:11,989 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-nn.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-nn.js
+2015-03-07 18:07:11,996 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ns.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ns.js
+2015-03-07 18:07:12,003 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-pa.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-pa.js
+2015-03-07 18:07:12,010 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-pl.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-pl.js
+2015-03-07 18:07:12,017 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-pt.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-pt.js
+2015-03-07 18:07:12,023 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-quz.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-quz.js
+2015-03-07 18:07:12,030 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ro.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ro.js
+2015-03-07 18:07:12,037 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ru.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ru.js
+2015-03-07 18:07:12,044 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sa.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sa.js
+2015-03-07 18:07:12,054 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-se.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-se.js
+2015-03-07 18:07:12,061 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sk.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sk.js
+2015-03-07 18:07:12,068 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sl.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sl.js
+2015-03-07 18:07:12,075 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sma.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sma.js
+2015-03-07 18:07:12,081 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-smj.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-smj.js
+2015-03-07 18:07:12,088 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-smn.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-smn.js
+2015-03-07 18:07:12,095 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sms.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sms.js
+2015-03-07 18:07:12,103 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sq.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sq.js
+2015-03-07 18:07:12,118 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sr.js
+2015-03-07 18:07:12,125 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sv.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sv.js
+2015-03-07 18:07:12,131 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-sw.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-sw.js
+2015-03-07 18:07:12,138 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-syr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-syr.js
+2015-03-07 18:07:12,145 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ta.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ta.js
+2015-03-07 18:07:12,152 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-te.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-te.js
+2015-03-07 18:07:12,158 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-th.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-th.js
+2015-03-07 18:07:12,169 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-tr.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-tr.js
+2015-03-07 18:07:12,183 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-tt.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-tt.js
+2015-03-07 18:07:12,192 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-uk.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-uk.js
+2015-03-07 18:07:12,200 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-ur.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-ur.js
+2015-03-07 18:07:12,208 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-uz.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-uz.js
+2015-03-07 18:07:12,217 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-vi.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-vi.js
+2015-03-07 18:07:12,224 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-xh.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-xh.js
+2015-03-07 18:07:12,231 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-zh.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-zh.js
+2015-03-07 18:07:12,238 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date-zu.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date-zu.js
+2015-03-07 18:07:12,245 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datejs/date.js --> WEB-INF/jcmswork/min.js/js/lib/datejs/date.js
+2015-03-07 18:07:12,252 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/bootstrap-datetimepicker.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/bootstrap-datetimepicker.js
+2015-03-07 18:07:12,260 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ar.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ar.js
+2015-03-07 18:07:12,261 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.bg.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.bg.js
+2015-03-07 18:07:12,262 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ca.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ca.js
+2015-03-07 18:07:12,263 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.cs.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.cs.js
+2015-03-07 18:07:12,264 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.da.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.da.js
+2015-03-07 18:07:12,265 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.de.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.de.js
+2015-03-07 18:07:12,266 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ee.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ee.js
+2015-03-07 18:07:12,267 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.el.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.el.js
+2015-03-07 18:07:12,268 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.es.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.es.js
+2015-03-07 18:07:12,268 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.fi.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.fi.js
+2015-03-07 18:07:12,269 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.fr.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.fr.js
+2015-03-07 18:07:12,271 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.he.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.he.js
+2015-03-07 18:07:12,271 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.hr.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.hr.js
+2015-03-07 18:07:12,272 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.hu.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.hu.js
+2015-03-07 18:07:12,273 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.id.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.id.js
+2015-03-07 18:07:12,274 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.is.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.is.js
+2015-03-07 18:07:12,275 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.it.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.it.js
+2015-03-07 18:07:12,276 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ja.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ja.js
+2015-03-07 18:07:12,277 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.kr.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.kr.js
+2015-03-07 18:07:12,278 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.lt.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.lt.js
+2015-03-07 18:07:12,279 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.lv.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.lv.js
+2015-03-07 18:07:12,279 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ms.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ms.js
+2015-03-07 18:07:12,280 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.nb.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.nb.js
+2015-03-07 18:07:12,281 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.nl.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.nl.js
+2015-03-07 18:07:12,282 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.no.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.no.js
+2015-03-07 18:07:12,282 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.pl.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.pl.js
+2015-03-07 18:07:12,283 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.pt-BR.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.pt-BR.js
+2015-03-07 18:07:12,284 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.pt.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.pt.js
+2015-03-07 18:07:12,285 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ro.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ro.js
+2015-03-07 18:07:12,286 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.rs-latin.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.rs-latin.js
+2015-03-07 18:07:12,286 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.rs.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.rs.js
+2015-03-07 18:07:12,288 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ru.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ru.js
+2015-03-07 18:07:12,288 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.sk.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.sk.js
+2015-03-07 18:07:12,289 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.sl.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.sl.js
+2015-03-07 18:07:12,290 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.sv.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.sv.js
+2015-03-07 18:07:12,291 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.sw.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.sw.js
+2015-03-07 18:07:12,292 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.th.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.th.js
+2015-03-07 18:07:12,293 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.tr.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.tr.js
+2015-03-07 18:07:12,294 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.ua.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.ua.js
+2015-03-07 18:07:12,294 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.uk.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.uk.js
+2015-03-07 18:07:12,295 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js
+2015-03-07 18:07:12,296 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/datetimepicker/locales/bootstrap-datetimepicker.zh-TW.js --> WEB-INF/jcmswork/min.js/js/lib/datetimepicker/locales/bootstrap-datetimepicker.zh-TW.js
+2015-03-07 18:07:12,297 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/elementQuery.base.js --> WEB-INF/jcmswork/min.js/js/lib/elementQuery.base.js
+2015-03-07 18:07:12,300 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/elementQuery.js --> WEB-INF/jcmswork/min.js/js/lib/elementQuery.js
+2015-03-07 18:07:12,303 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/curvedLines.js --> WEB-INF/jcmswork/min.js/js/lib/flot/curvedLines.js
+2015-03-07 18:07:12,305 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/excanvas.js --> WEB-INF/jcmswork/min.js/js/lib/flot/excanvas.js
+2015-03-07 18:07:12,346 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.colorhelpers.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.colorhelpers.js
+2015-03-07 18:07:12,348 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.crosshair.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.crosshair.js
+2015-03-07 18:07:12,350 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.fillbetween.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.fillbetween.js
+2015-03-07 18:07:12,351 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.image.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.image.js
+2015-03-07 18:07:12,353 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.js
+2015-03-07 18:07:12,610 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.navigate.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.navigate.js
+2015-03-07 18:07:12,613 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.pie.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.pie.js
+2015-03-07 18:07:12,622 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.resize.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.resize.js
+2015-03-07 18:07:12,748 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.selection.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.selection.js
+2015-03-07 18:07:12,755 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.stack.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.stack.js
+2015-03-07 18:07:12,759 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.symbol.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.symbol.js
+2015-03-07 18:07:12,762 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/flot/jquery.flot.threshold.js --> WEB-INF/jcmswork/min.js/js/lib/flot/jquery.flot.threshold.js
+2015-03-07 18:07:12,766 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/history.js/history.adapter.jquery.js --> WEB-INF/jcmswork/min.js/js/lib/history.js/history.adapter.jquery.js
+2015-03-07 18:07:12,769 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/history.js/history.html4.js --> WEB-INF/jcmswork/min.js/js/lib/history.js/history.html4.js
+2015-03-07 18:07:12,774 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/history.js/history.js --> WEB-INF/jcmswork/min.js/js/lib/history.js/history.js
+2015-03-07 18:07:12,791 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/htmlparser.js --> WEB-INF/jcmswork/min.js/js/lib/htmlparser.js
+2015-03-07 18:07:12,796 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/imagesLoaded/imagesloaded.pkgd.js --> WEB-INF/jcmswork/min.js/js/lib/imagesLoaded/imagesloaded.pkgd.js
+2015-03-07 18:07:12,802 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jcrop/jquery.Jcrop.js --> WEB-INF/jcmswork/min.js/js/lib/jcrop/jquery.Jcrop.js
+2015-03-07 18:07:13,103 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery/jquery-1.11.1.js --> WEB-INF/jcmswork/min.js/js/lib/jquery/jquery-1.11.1.js
+2015-03-07 18:07:15,094 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery/jquery-fix.js --> WEB-INF/jcmswork/min.js/js/lib/jquery/jquery-fix.js
+2015-03-07 18:07:15,096 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery/jquery-migrate-1.2.1.js --> WEB-INF/jcmswork/min.js/js/lib/jquery/jquery-migrate-1.2.1.js
+2015-03-07 18:07:15,099 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery-ui.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery-ui.js
+2015-03-07 18:07:15,158 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.accordion.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.accordion.js
+2015-03-07 18:07:15,161 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.autocomplete.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.autocomplete.js
+2015-03-07 18:07:15,164 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.button.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.button.js
+2015-03-07 18:07:15,166 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.core.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.core.js
+2015-03-07 18:07:15,168 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.datepicker.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.datepicker.js
+2015-03-07 18:07:15,181 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.dialog.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.dialog.js
+2015-03-07 18:07:15,184 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.draggable.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.draggable.js
+2015-03-07 18:07:15,189 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.droppable.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.droppable.js
+2015-03-07 18:07:15,191 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-blind.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-blind.js
+2015-03-07 18:07:15,192 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-bounce.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-bounce.js
+2015-03-07 18:07:15,193 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-clip.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-clip.js
+2015-03-07 18:07:15,194 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-drop.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-drop.js
+2015-03-07 18:07:15,195 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-explode.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-explode.js
+2015-03-07 18:07:15,196 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-fade.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-fade.js
+2015-03-07 18:07:15,197 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-fold.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-fold.js
+2015-03-07 18:07:15,198 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-highlight.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-highlight.js
+2015-03-07 18:07:15,199 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-pulsate.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-pulsate.js
+2015-03-07 18:07:15,201 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-scale.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-scale.js
+2015-03-07 18:07:15,202 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-shake.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-shake.js
+2015-03-07 18:07:15,203 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-slide.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-slide.js
+2015-03-07 18:07:15,204 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect-transfer.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect-transfer.js
+2015-03-07 18:07:15,205 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.effect.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.effect.js
+2015-03-07 18:07:15,211 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.menu.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.menu.js
+2015-03-07 18:07:15,214 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.mouse.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.mouse.js
+2015-03-07 18:07:15,215 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.position.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.position.js
+2015-03-07 18:07:15,218 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.progressbar.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.progressbar.js
+2015-03-07 18:07:15,219 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.resizable.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.resizable.js
+2015-03-07 18:07:15,225 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.selectable.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.selectable.js
+2015-03-07 18:07:15,226 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.slider.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.slider.js
+2015-03-07 18:07:15,230 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.sortable.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.sortable.js
+2015-03-07 18:07:15,236 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.spinner.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.spinner.js
+2015-03-07 18:07:15,238 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.tabs.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.tabs.js
+2015-03-07 18:07:15,244 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.tooltip.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.tooltip.js
+2015-03-07 18:07:15,247 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery-ui-1-10-4/jquery.ui.widget.js --> WEB-INF/jcmswork/min.js/js/lib/jquery-ui-1-10-4/jquery.ui.widget.js
+2015-03-07 18:07:15,250 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery.ajaxQueue.js --> WEB-INF/jcmswork/min.js/js/lib/jquery.ajaxQueue.js
+2015-03-07 18:07:15,250 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery.console.js --> WEB-INF/jcmswork/min.js/js/lib/jquery.console.js
+2015-03-07 18:07:15,252 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery.cookie.js --> WEB-INF/jcmswork/min.js/js/lib/jquery.cookie.js
+2015-03-07 18:07:15,253 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jquery.idle-timer.js --> WEB-INF/jcmswork/min.js/js/lib/jquery.idle-timer.js
+2015-03-07 18:07:15,255 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/json2.js --> WEB-INF/jcmswork/min.js/js/lib/json2.js
+2015-03-07 18:07:15,257 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/jsonrpc.js --> WEB-INF/jcmswork/min.js/js/lib/jsonrpc.js
+2015-03-07 18:07:15,260 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/less/less.js --> WEB-INF/jcmswork/min.js/js/lib/less/less.js
+2015-03-07 18:07:15,276 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/mejs/jquery.js --> WEB-INF/jcmswork/min.js/js/lib/mejs/jquery.js
+2015-03-07 18:07:17,673 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/mejs/mediaelement-and-player.js --> WEB-INF/jcmswork/min.js/js/lib/mejs/mediaelement-and-player.js
+2015-03-07 18:07:17,734 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/mejs/mediaelement.js --> WEB-INF/jcmswork/min.js/js/lib/mejs/mediaelement.js
+2015-03-07 18:07:17,741 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/mejs/mediaelementplayer.js --> WEB-INF/jcmswork/min.js/js/lib/mejs/mediaelementplayer.js
+2015-03-07 18:07:17,754 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/menu/jquery.multilevelpushmenu.js --> WEB-INF/jcmswork/min.js/js/lib/menu/jquery.multilevelpushmenu.js
+2015-03-07 18:07:17,969 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/menu/jquery.multilevelpushmenu.original.js --> WEB-INF/jcmswork/min.js/js/lib/menu/jquery.multilevelpushmenu.original.js
+2015-03-07 18:07:18,102 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/modernizr/modernizr.custom.59726.js --> WEB-INF/jcmswork/min.js/js/lib/modernizr/modernizr.custom.59726.js
+2015-03-07 18:07:18,104 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ar.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ar.js
+2015-03-07 18:07:18,107 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/az.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/az.js
+2015-03-07 18:07:18,108 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/be_BY.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/be_BY.js
+2015-03-07 18:07:18,109 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/bs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/bs.js
+2015-03-07 18:07:18,110 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ca.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ca.js
+2015-03-07 18:07:18,110 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/cs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/cs.js
+2015-03-07 18:07:18,112 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/cy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/cy.js
+2015-03-07 18:07:18,112 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/da.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/da.js
+2015-03-07 18:07:18,114 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/de.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/de.js
+2015-03-07 18:07:18,115 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/el.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/el.js
+2015-03-07 18:07:18,116 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/en.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/en.js
+2015-03-07 18:07:18,117 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/es.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/es.js
+2015-03-07 18:07:18,118 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/et.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/et.js
+2015-03-07 18:07:18,118 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/fa.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/fa.js
+2015-03-07 18:07:18,120 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/fi.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/fi.js
+2015-03-07 18:07:18,120 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/fr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/fr.js
+2015-03-07 18:07:18,121 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/gl_ES.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/gl_ES.js
+2015-03-07 18:07:18,122 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/he.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/he.js
+2015-03-07 18:07:18,123 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/hr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/hr.js
+2015-03-07 18:07:18,124 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/hu.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/hu.js
+2015-03-07 18:07:18,124 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/hy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/hy.js
+2015-03-07 18:07:18,125 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/id.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/id.js
+2015-03-07 18:07:18,126 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/it.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/it.js
+2015-03-07 18:07:18,127 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ja.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ja.js
+2015-03-07 18:07:18,128 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ka.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ka.js
+2015-03-07 18:07:18,129 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/kk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/kk.js
+2015-03-07 18:07:18,130 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/km.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/km.js
+2015-03-07 18:07:18,131 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ko.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ko.js
+2015-03-07 18:07:18,132 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/lt.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/lt.js
+2015-03-07 18:07:18,133 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/lv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/lv.js
+2015-03-07 18:07:18,134 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/mn.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/mn.js
+2015-03-07 18:07:18,135 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ms.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ms.js
+2015-03-07 18:07:18,136 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/nl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/nl.js
+2015-03-07 18:07:18,136 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/pl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/pl.js
+2015-03-07 18:07:18,137 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/pt_BR.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/pt_BR.js
+2015-03-07 18:07:18,138 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ro.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ro.js
+2015-03-07 18:07:18,139 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/ru.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/ru.js
+2015-03-07 18:07:18,140 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/sk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/sk.js
+2015-03-07 18:07:18,141 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/sq.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/sq.js
+2015-03-07 18:07:18,142 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/sr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/sr.js
+2015-03-07 18:07:18,142 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/sr_RS.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/sr_RS.js
+2015-03-07 18:07:18,143 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/sv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/sv.js
+2015-03-07 18:07:18,144 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/th_TH.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/th_TH.js
+2015-03-07 18:07:18,145 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/tr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/tr.js
+2015-03-07 18:07:18,146 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/uk_UA.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/uk_UA.js
+2015-03-07 18:07:18,147 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/vi.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/vi.js
+2015-03-07 18:07:18,148 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/zh_CN.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/zh_CN.js
+2015-03-07 18:07:18,149 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/i18n/zh_TW.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/i18n/zh_TW.js
+2015-03-07 18:07:18,150 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/jquery.plupload.queue/jquery.plupload.queue.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/jquery.plupload.queue/jquery.plupload.queue.js
+2015-03-07 18:07:18,153 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/jquery.ui.plupload/jquery.ui.plupload.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/jquery.ui.plupload/jquery.ui.plupload.js
+2015-03-07 18:07:18,156 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.browserplus.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.browserplus.js
+2015-03-07 18:07:18,159 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.flash.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.flash.js
+2015-03-07 18:07:18,161 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.full.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.full.js
+2015-03-07 18:07:18,179 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.gears.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.gears.js
+2015-03-07 18:07:18,181 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.html4.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.html4.js
+2015-03-07 18:07:18,184 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.html5.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.html5.js
+2015-03-07 18:07:18,193 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.js
+2015-03-07 18:07:18,198 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-1.5.8/js/plupload.silverlight.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-1.5.8/js/plupload.silverlight.js
+2015-03-07 18:07:18,201 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ar.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ar.js
+2015-03-07 18:07:18,203 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/az.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/az.js
+2015-03-07 18:07:18,204 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/bs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/bs.js
+2015-03-07 18:07:18,205 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/cs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/cs.js
+2015-03-07 18:07:18,206 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/cy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/cy.js
+2015-03-07 18:07:18,206 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/da.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/da.js
+2015-03-07 18:07:18,207 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/de.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/de.js
+2015-03-07 18:07:18,208 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/el.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/el.js
+2015-03-07 18:07:18,209 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/en.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/en.js
+2015-03-07 18:07:18,210 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/es.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/es.js
+2015-03-07 18:07:18,211 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/et.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/et.js
+2015-03-07 18:07:18,212 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/fa.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/fa.js
+2015-03-07 18:07:18,213 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/fi.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/fi.js
+2015-03-07 18:07:18,214 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/fr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/fr.js
+2015-03-07 18:07:18,215 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/he.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/he.js
+2015-03-07 18:07:18,216 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/hr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/hr.js
+2015-03-07 18:07:18,217 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/hu.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/hu.js
+2015-03-07 18:07:18,218 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/hy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/hy.js
+2015-03-07 18:07:18,219 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/id.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/id.js
+2015-03-07 18:07:18,220 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/it.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/it.js
+2015-03-07 18:07:18,221 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ja.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ja.js
+2015-03-07 18:07:18,222 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ka.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ka.js
+2015-03-07 18:07:18,222 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/kk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/kk.js
+2015-03-07 18:07:18,223 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/km.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/km.js
+2015-03-07 18:07:18,224 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ko.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ko.js
+2015-03-07 18:07:18,225 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/lt.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/lt.js
+2015-03-07 18:07:18,226 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/lv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/lv.js
+2015-03-07 18:07:18,227 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/mn.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/mn.js
+2015-03-07 18:07:18,228 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ms.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ms.js
+2015-03-07 18:07:18,229 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/nl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/nl.js
+2015-03-07 18:07:18,231 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/pl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/pl.js
+2015-03-07 18:07:18,232 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/pt_BR.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/pt_BR.js
+2015-03-07 18:07:18,233 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ro.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ro.js
+2015-03-07 18:07:18,234 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/ru.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/ru.js
+2015-03-07 18:07:18,236 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/sk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/sk.js
+2015-03-07 18:07:18,237 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/sq.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/sq.js
+2015-03-07 18:07:18,238 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/sr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/sr.js
+2015-03-07 18:07:18,239 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/sr_RS.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/sr_RS.js
+2015-03-07 18:07:18,239 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/sv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/sv.js
+2015-03-07 18:07:18,240 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/th_TH.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/th_TH.js
+2015-03-07 18:07:18,241 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/tr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/tr.js
+2015-03-07 18:07:18,242 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/uk_UA.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/uk_UA.js
+2015-03-07 18:07:18,243 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/zh_CN.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/zh_CN.js
+2015-03-07 18:07:18,244 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/i18n/zh_TW.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/i18n/zh_TW.js
+2015-03-07 18:07:18,245 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/jquery.plupload.queue/jquery.plupload.queue.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/jquery.plupload.queue/jquery.plupload.queue.js
+2015-03-07 18:07:18,247 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/jquery.ui.plupload/jquery.ui.plupload.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/jquery.ui.plupload/jquery.ui.plupload.js
+2015-03-07 18:07:18,253 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/moxie.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/moxie.js
+2015-03-07 18:07:18,326 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload-2.1.2/js/plupload.dev.js --> WEB-INF/jcmswork/min.js/js/lib/plupload-2.1.2/js/plupload.dev.js
+2015-03-07 18:07:18,334 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ar.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ar.js
+2015-03-07 18:07:18,336 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/az.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/az.js
+2015-03-07 18:07:18,337 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/bs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/bs.js
+2015-03-07 18:07:18,338 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/cs.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/cs.js
+2015-03-07 18:07:18,339 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/cy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/cy.js
+2015-03-07 18:07:18,339 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/da.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/da.js
+2015-03-07 18:07:18,340 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/de.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/de.js
+2015-03-07 18:07:18,341 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/el.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/el.js
+2015-03-07 18:07:18,342 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/en.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/en.js
+2015-03-07 18:07:18,343 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/es.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/es.js
+2015-03-07 18:07:18,344 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/et.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/et.js
+2015-03-07 18:07:18,345 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/fa.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/fa.js
+2015-03-07 18:07:18,346 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/fi.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/fi.js
+2015-03-07 18:07:18,347 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/fr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/fr.js
+2015-03-07 18:07:18,348 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/he.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/he.js
+2015-03-07 18:07:18,349 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/hr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/hr.js
+2015-03-07 18:07:18,349 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/hu.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/hu.js
+2015-03-07 18:07:18,350 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/hy.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/hy.js
+2015-03-07 18:07:18,351 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/id.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/id.js
+2015-03-07 18:07:18,352 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/it.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/it.js
+2015-03-07 18:07:18,353 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ja.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ja.js
+2015-03-07 18:07:18,354 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ka.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ka.js
+2015-03-07 18:07:18,354 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/kk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/kk.js
+2015-03-07 18:07:18,356 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/km.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/km.js
+2015-03-07 18:07:18,356 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ko.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ko.js
+2015-03-07 18:07:18,357 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/lt.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/lt.js
+2015-03-07 18:07:18,358 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/lv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/lv.js
+2015-03-07 18:07:18,359 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/mn.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/mn.js
+2015-03-07 18:07:18,360 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ms.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ms.js
+2015-03-07 18:07:18,360 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/nl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/nl.js
+2015-03-07 18:07:18,361 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/pl.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/pl.js
+2015-03-07 18:07:18,362 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/pt_BR.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/pt_BR.js
+2015-03-07 18:07:18,363 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ro.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ro.js
+2015-03-07 18:07:18,364 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/ru.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/ru.js
+2015-03-07 18:07:18,365 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/sk.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/sk.js
+2015-03-07 18:07:18,366 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/sq.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/sq.js
+2015-03-07 18:07:18,367 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/sr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/sr.js
+2015-03-07 18:07:18,367 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/sr_RS.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/sr_RS.js
+2015-03-07 18:07:18,368 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/sv.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/sv.js
+2015-03-07 18:07:18,369 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/th_TH.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/th_TH.js
+2015-03-07 18:07:18,370 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/tr.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/tr.js
+2015-03-07 18:07:18,371 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/uk_UA.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/uk_UA.js
+2015-03-07 18:07:18,373 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/zh_CN.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/zh_CN.js
+2015-03-07 18:07:18,374 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/i18n/zh_TW.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/i18n/zh_TW.js
+2015-03-07 18:07:18,375 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/jquery.plupload.queue/jquery.plupload.queue.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/jquery.plupload.queue/jquery.plupload.queue.js
+2015-03-07 18:07:18,377 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/jquery.ui.plupload/jquery.ui.plupload.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/jquery.ui.plupload/jquery.ui.plupload.js
+2015-03-07 18:07:18,384 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/moxie.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/moxie.js
+2015-03-07 18:07:18,461 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/plupload2/plupload.dev.js --> WEB-INF/jcmswork/min.js/js/lib/plupload2/plupload.dev.js
+2015-03-07 18:07:18,468 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/prototype.js --> WEB-INF/jcmswork/min.js/js/lib/prototype.js
+2015-03-07 18:07:18,812 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/respond/respond.src.js --> WEB-INF/jcmswork/min.js/js/lib/respond/respond.src.js
+2015-03-07 18:07:18,814 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/stacktrace.js --> WEB-INF/jcmswork/min.js/js/lib/stacktrace.js
+2015-03-07 18:07:18,817 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/lib/swfobject.js --> WEB-INF/jcmswork/min.js/js/lib/swfobject.js
+2015-03-07 18:07:18,819 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/resizableTable.js --> WEB-INF/jcmswork/min.js/js/resizableTable.js
+2015-03-07 18:07:18,820 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/assets/jalios-i18n-mock.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/assets/jalios-i18n-mock.js
+2015-03-07 18:07:18,823 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/assets/jalios-properties-mock.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/assets/jalios-properties-mock.js
+2015-03-07 18:07:18,824 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-ajax-refresh.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-ajax-refresh.js
+2015-03-07 18:07:18,826 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-common.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-common.js
+2015-03-07 18:07:18,827 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-data-broker.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-data-broker.js
+2015-03-07 18:07:18,829 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-data-toggle.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-data-toggle.js
+2015-03-07 18:07:18,831 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-i18n.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-i18n.js
+2015-03-07 18:07:18,831 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-modal.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-modal.js
+2015-03-07 18:07:18,832 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-single-submit.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-single-submit.js
+2015-03-07 18:07:18,833 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/jalios/core/unit/jalios-tab.js --> WEB-INF/jcmswork/min.js/js/tests/jalios/core/unit/jalios-tab.js
+2015-03-07 18:07:18,835 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/vendor/jquery.js --> WEB-INF/jcmswork/min.js/js/tests/vendor/jquery.js
+2015-03-07 18:07:20,663 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tests/vendor/qunit.js --> WEB-INF/jcmswork/min.js/js/tests/vendor/qunit.js
+2015-03-07 18:07:20,716 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/tree.js --> WEB-INF/jcmswork/min.js/js/tree.js
+2015-03-07 18:07:20,720 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/treecat.js --> WEB-INF/jcmswork/min.js/js/treecat.js
+2015-03-07 18:07:20,728 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/treegroup.js --> WEB-INF/jcmswork/min.js/js/treegroup.js
+2015-03-07 18:07:20,731 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/typeEditor.js --> WEB-INF/jcmswork/min.js/js/typeEditor.js
+2015-03-07 18:07:20,738 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/validation/additional-methods.js --> WEB-INF/jcmswork/min.js/js/validation/additional-methods.js
+2015-03-07 18:07:20,747 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/validation/jquery.validate.js --> WEB-INF/jcmswork/min.js/js/validation/jquery.validate.js
+2015-03-07 18:07:20,753 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/widget.js --> WEB-INF/jcmswork/min.js/js/widget.js
+2015-03-07 18:07:20,759 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/wiki.js --> WEB-INF/jcmswork/min.js/js/wiki.js
+2015-03-07 18:07:20,761 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  js/wikispell.js --> WEB-INF/jcmswork/min.js/js/wikispell.js
+2015-03-07 18:07:20,763 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  custom/js/alternate.js --> WEB-INF/jcmswork/min.js/custom/js/alternate.js
+2015-03-07 18:07:20,765 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  custom/js/standard.js --> WEB-INF/jcmswork/min.js/custom/js/standard.js
+2015-03-07 18:07:20,766 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  types/DBMailMessage/mailmessage.js --> WEB-INF/jcmswork/min.js/types/DBMailMessage/mailmessage.js
+2015-03-07 18:07:20,769 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  -  types/PortletMenu/js/editArea.js --> WEB-INF/jcmswork/min.js/types/PortletMenu/js/editArea.js
+2015-03-07 18:07:20,771 INFO [localhost-startStop-1] [JCMS 9] [tools.JsPacker]  - 608 JS files minified in 19 s
+2015-03-07 18:07:20,800 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - JcmsInit.initAfterLoad
+2015-03-07 18:07:20,803 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - Starts migration of associated files to new mechanism
+2015-03-07 18:07:20,803 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel] [SECURITY] - update and save properties
+2015-03-07 18:07:20,808 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Initialize FileProcessor repositories (JCMS properties were modified)
+2015-03-07 18:07:20,808 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Stopping existing repositories...
+2015-03-07 18:07:20,808 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - [JCMSUpload] Stopping repository...
+2015-03-07 18:07:20,808 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - Starting new repositories...
+2015-03-07 18:07:20,818 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - [JCMSUpload] Initializing repository...
+2015-03-07 18:07:20,821 INFO [localhost-startStop-1] [JCMS 9] [repository.Repository]  - [JCMSUpload] No component (processor or parser) configured for this repository.
+2015-03-07 18:07:20,822 INFO [localhost-startStop-1] [JCMS 9] [processingmanagement.FileProcessorManager]  - [JCMSUpload] Repository successfully initialized and started.
+2015-03-07 18:07:20,822 INFO [localhost-startStop-1] [JCMS 9] [mail.MailFetcher]  - MailFetcher is disabled
+2015-03-07 18:07:20,833 INFO [localhost-startStop-1] [JCMS 9] [jcms.JcmsSessionTracker]  - Members' traces disabled
+2015-03-07 18:07:20,843 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache : 1000
+2015-03-07 18:07:20,843 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache for 'csspacker' configuration : 200
+2015-03-07 18:07:20,843 INFO [localhost-startStop-1] [JCMS 9] [jcms.CacheManager]  - Maximum number of server's cache for 'jspacker' configuration : 200
+2015-03-07 18:07:20,843 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - CacheManager enabled
+2015-03-07 18:07:20,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Mails are disabled
+2015-03-07 18:07:20,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Incoming mail are disabled
+2015-03-07 18:07:20,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - ReverseProxy disabled
+2015-03-07 18:07:20,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Store backup is enabled
+2015-03-07 18:07:20,853 INFO [localhost-startStop-1] [JCMS 9] [jcms.Channel]  - Notification enabled
+2015-03-07 18:07:20,862 INFO [localhost-startStop-1] [JCMS 9] [jcms.AudienceRights]  - Audience Rights is disabled
+2015-03-07 18:07:20,862 INFO [localhost-startStop-1] [JCMS 9] [rest.RestManager]  - Authorized IPs for read access : 127.0.0.1 0:0:0:0:0:0:0:1 192.168.*
+2015-03-07 18:07:20,883 INFO [localhost-startStop-1] [JCMS 9] [alert.AlertManager]  - Initialize alert purge. Next purge: Alarm params minute=0 hour=5 dayOfMonth=-1 month=-1 dayOfWeek=-1 (next alarm date=Sun Mar 08 05:00:00 CET 2015)
+2015-03-07 18:07:20,884 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - End of migration of associated files to new mechanism
+2015-03-07 18:07:20,885 INFO [localhost-startStop-1] [JCMS 9] [jcms.QuotaManager]  - Update workspaces quota in separate thread
+2015-03-07 18:07:22,308 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - Memory: Total: 247,5 Mo - Used: 70,46 Mo (28%) - Free: 177,04 Mo
+2015-03-07 18:07:22,308 INFO [localhost-startStop-1] [JCMS 9] [jcms.ChannelInitServlet]  - JCMS 9 is ready (JCMS 9.0.1 (build-20150128184305))
+2015-03-07 18:09:14,712 INFO [http-bio-8080-exec-8] [JCMS 9] [handlers.LoggingAuthenticationHandler] [0:0:0:0:0:0:0:1, j_2, Admin] [SECURITY] - Administrator "Admin" starts a new session
